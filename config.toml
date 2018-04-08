@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-en"
+title = "23Ro's Digest"
+theme = "after-dark"
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Posts"
+  weight = 2
+  identifier = "post"
+  url = "/post/"
+[[menu.main]]
+  name = "GDPR"
+  weight = 3
+  identifier = "GDPR"
+  url = "/GDPR/"
