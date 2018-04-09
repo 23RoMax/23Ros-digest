@@ -2,8 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-categories: ["general"]
-tags: ["general", "things"]
+categories: ["life"]
+tags: ["computer", "life", "knowing things", "such wow", "much deep"]
 description:
 keywords: 
 ---
