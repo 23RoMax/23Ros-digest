@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://mndev.info/"
 languageCode = "en-en"
 title = "23Ro's Digest"
 theme = "after-dark"
+key = "AIzaSyBZEomtIf7jODJZpboI_HOQJHjTBmQKl_A"
 
 [[menu.main]]
   name = "Home"
@@ -12,9 +13,14 @@ theme = "after-dark"
   name = "Posts"
   weight = 2
   identifier = "post"
-  url = "/post/"
+  url = "/posts/"
 [[menu.main]]
-  name = "GDPR"
+  name = "About 23Ro"
   weight = 3
-  identifier = "GDPR"
-  url = "/GDPR/"
+  identifier = "About"
+  url = "/about/"
+  [[menu.main]]
+  name = "Legal Disclosure"
+  weight = 4
+  identifier = "Legal Disclosure"
+  url = "/legal/"
