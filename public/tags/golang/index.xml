@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to the humble mindspace of 23Ro on 23Ro&#39;s Digest</title>
-    <link>http://mndev.info/</link>
-    <description>Recent content in Welcome to the humble mindspace of 23Ro on 23Ro&#39;s Digest</description>
+    <title>Golang on 23Ro&#39;s Digest</title>
+    <link>http://mndev.info/tags/golang/</link>
+    <description>Recent content in Golang on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Mon, 09 Apr 2018 00:44:51 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Apr 2018 00:43:36 +0200</lastBuildDate>
     
-	<atom:link href="http://mndev.info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mndev.info/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

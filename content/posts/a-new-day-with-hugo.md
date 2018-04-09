@@ -5,7 +5,7 @@ draft: false
 categories: ["hugo"]
 tags: ["computer", "product", "software", "hugo", "development", "gohugo", "golang"]
 description: First steps with Hugo - not a Hello World, but a Hello Universe
-keywords: 
+keywords: ["computer", "product", "software", "hugo", "development", "gohugo", "macos"]
 ---
 
 ## Initial Entry - no commit
