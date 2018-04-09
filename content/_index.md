@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the humble mindspace of 23Ro"
 date: 2018-04-09T00:44:51+02:00
-draft: true
+draft: false
 ---
 
 ## A primer
