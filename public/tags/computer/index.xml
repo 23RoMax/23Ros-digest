@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer on 23Ro&#39;s Digest</title>
-    <link>http://mndev.info/tags/computer/</link>
+    <link>http://www.23ro.de/tags/computer/</link>
     <description>Recent content in Computer on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
     <lastBuildDate>Mon, 09 Apr 2018 00:43:36 +0200</lastBuildDate>
     
-	<atom:link href="http://mndev.info/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.23ro.de/tags/computer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Second Day With Hugo</title>
-      <link>http://mndev.info/posts/a-second-day-with-hugo/</link>
+      <link>http://www.23ro.de/posts/a-second-day-with-hugo/</link>
       <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
       
-      <guid>http://mndev.info/posts/a-second-day-with-hugo/</guid>
+      <guid>http://www.23ro.de/posts/a-second-day-with-hugo/</guid>
       <description>Second entry - first commit After setting things up initially in a Mac environment and creating a new post, why not doing the same for windows? &amp;ndash;&amp;gt; Bad idead
 Still, I&amp;rsquo;m getting it and slowly things are coming together Setting Hugo up on a windows machine is not utterly complex, but also not as fluent of an experience as on linux, or mac. One might wonder why I have to deal with three different environments at all?</description>
     </item>
     
     <item>
       <title>A New Day With Hugo</title>
-      <link>http://mndev.info/posts/a-new-day-with-hugo/</link>
+      <link>http://www.23ro.de/posts/a-new-day-with-hugo/</link>
       <pubDate>Fri, 06 Apr 2018 23:23:04 +0200</pubDate>
       
-      <guid>http://mndev.info/posts/a-new-day-with-hugo/</guid>
+      <guid>http://www.23ro.de/posts/a-new-day-with-hugo/</guid>
       <description>Initial Entry - no commit Just doing the setup like described in the quickstart.
 I&amp;rsquo;m trying to figure out what I&amp;rsquo;m doing here So setting up hugo was a smooth experience on my macbook.
 1st Step:

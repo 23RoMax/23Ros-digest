@@ -2,6 +2,9 @@
 title: "Welcome to the humble mindspace of 23Ro"
 date: 2018-04-09T00:44:51+02:00
 draft: false
+tags: ["about", "23Ro", "life"]
+description: "Hello World - nice to meet you!"
+keywords: ["about", "23Ro", "life", "programmer", "technical product owner", "it-business", "startup", "fancy"]
 ---
 
 ## A primer

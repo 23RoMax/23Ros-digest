@@ -3,82 +3,105 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mndev.info/</loc>
+    <loc>http://www.23ro.de/about/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/</loc>
     <lastmod>2018-04-09T00:44:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mndev.info/posts/a-second-day-with-hugo/</loc>
+    <loc>http://www.23ro.de/posts/a-second-day-with-hugo/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mndev.info/posts/a-new-day-with-hugo/</loc>
+    <loc>http://www.23ro.de/posts/a-new-day-with-hugo/</loc>
     <lastmod>2018-04-06T23:23:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mndev.info/categories/</loc>
+    <loc>http://www.23ro.de/tags/23ro/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/tags/computer/</loc>
+    <loc>http://www.23ro.de/tags/about/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/computer/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/tags/development/</loc>
+    <loc>http://www.23ro.de/tags/development/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/tags/gohugo/</loc>
+    <loc>http://www.23ro.de/tags/gohugo/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/tags/golang/</loc>
+    <loc>http://www.23ro.de/tags/golang/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/tags/hugo/</loc>
+    <loc>http://www.23ro.de/tags/hugo/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/categories/hugo/</loc>
+    <loc>http://www.23ro.de/categories/hugo/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/posts/</loc>
+    <loc>http://www.23ro.de/tags/life/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/posts/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/tags/product/</loc>
+    <loc>http://www.23ro.de/tags/product/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/tags/software/</loc>
+    <loc>http://www.23ro.de/tags/software/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mndev.info/tags/</loc>
-    <lastmod>2018-04-09T00:43:36+02:00</lastmod>
+    <loc>http://www.23ro.de/tags/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   

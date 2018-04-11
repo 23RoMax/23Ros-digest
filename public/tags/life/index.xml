@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on 23Ro&#39;s Digest</title>
+    <link>http://www.23ro.de/tags/life/</link>
+    <description>Recent content in Life on 23Ro&#39;s Digest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <lastBuildDate>Tue, 10 Apr 2018 00:07:25 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.23ro.de/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.23ro.de/about/</link>
+      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/about/</guid>
+      <description>##Hellouuuu!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the humble mindspace of 23Ro</title>
+      <link>http://www.23ro.de/</link>
+      <pubDate>Mon, 09 Apr 2018 00:44:51 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/</guid>
+      <description>A primer This is dedicated to all the time spent in front of computers. Finding a true way to express oneself in projects, and beginning to make a small private blog a habit. In all it&amp;rsquo;s glory, I will present you, the humble inventions, findings, and collections of myself, friends, family and fools. This website is built with hugo, where content is mainly written in markdown and insanely fast converted to a static website.</description>
+    </item>
+    
+  </channel>
+</rss>

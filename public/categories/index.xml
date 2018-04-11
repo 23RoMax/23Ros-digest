@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 23Ro&#39;s Digest</title>
-    <link>http://mndev.info/categories/</link>
+    <link>http://www.23ro.de/categories/</link>
     <description>Recent content in Categories on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
     
-	<atom:link href="http://mndev.info/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.23ro.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>http://mndev.info/categories/hugo/</link>
+      <link>http://www.23ro.de/categories/hugo/</link>
       <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
       
-      <guid>http://mndev.info/categories/hugo/</guid>
+      <guid>http://www.23ro.de/categories/hugo/</guid>
       <description></description>
     </item>
     
