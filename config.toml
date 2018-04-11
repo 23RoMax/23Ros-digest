@@ -3,6 +3,7 @@ languageCode = "en-en"
 title = "23Ro's Digest"
 theme = "after-dark"
 key = "AIzaSyBZEomtIf7jODJZpboI_HOQJHjTBmQKl_A"
+googleAnalytics = "UA-117425007-1"
 
 [[menu.main]]
   name = "Home"
@@ -20,7 +21,7 @@ key = "AIzaSyBZEomtIf7jODJZpboI_HOQJHjTBmQKl_A"
   identifier = "About"
   url = "/about/"
   [[menu.main]]
-  name = "Legal Disclosure"
+  name = "Legal Disclaimer"
   weight = 4
-  identifier = "Legal Disclosure"
+  identifier = "Legal Disclaimer"
   url = "/legal/"

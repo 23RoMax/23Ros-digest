@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Posts | 23Ro&#39;s Digest</title>
     <meta name="description" content="">
-    <meta name="keywords" content="hugo, ">
+    <meta name="keywords" content="hugo, postgresql, ">
     
     
     
@@ -25,7 +25,7 @@
 
 
 
-<meta property="og:updated_time" content="2018-04-09T00:43:36&#43;02:00"/>
+<meta property="og:updated_time" content="2018-04-12T01:16:57&#43;02:00"/>
 
 
 
@@ -49,6 +49,13 @@
 
     
     
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-117425007-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
     
       <link href="http://www.23ro.de/posts/index.xml" rel="alternate" type="application/rss+xml" title="23Ro&#39;s Digest" />
     
@@ -185,7 +192,6 @@ article header img {
   
   <body class="hack dark main container">
     <header>
-
   
   <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
     
@@ -196,7 +202,7 @@ article header img {
     
       <a itemprop="url" class="" href="/about/"><span itemprop="name">About 23Ro</span></a>
     
-      <a itemprop="url" class="" href="/legal/"><span itemprop="name">Legal Disclosure</span></a>
+      <a itemprop="url" class="" href="/legal/"><span itemprop="name">Legal Disclaimer</span></a>
     
   </nav>
 
@@ -206,6 +212,30 @@ article header img {
   <header>
     <h1>Posts</h1>
   </header>
+  
+    <article itemscope itemtype="http://schema.org/CreativeWork">
+  <header>
+    <h2 itemprop="name">
+      <a href="/posts/how-to-increment-selected-values-inside-insert-statement/">How-To: Increment Selected Values Inside Insert Statement</a>
+    </h2>
+    
+  </header>
+  
+    <blockquote itemprop="headline">How-To: Increment Selected Values Inside Insert Statement</blockquote>
+  
+  <div itemprop="description">
+    Why would I need this? Imagine you want to fill a field of a table with a sequenctially value, but do not have any ID for a sequence and are using PostgreSQL, and you also already have information in this table that you want to append on. Well there is this option to use the internal ID (CID) provided by PostgreSQL, but this only works to a certain extent. And it won&rsquo;t work if you have more than one combination to fulfill.
+  </div>
+  
+    <nav class="readmore"><a itemprop="url" href="/posts/how-to-increment-selected-values-inside-insert-statement/">Read More&nbsp;&raquo;</a></nav>
+  
+  <meta itemprop="inLanguage" content="en-en">
+  <meta itemprop="datePublished" content="2018-04-12T01:16:57&#43;02:00">
+  <meta itemprop="dateModified" content="2018-04-12T01:16:57&#43;02:00">
+  
+</article>
+
+    <p>posts\ 2018-04-12 01:16:57 &#43;0200 CEST 2 min</p>
   
     <article itemscope itemtype="http://schema.org/CreativeWork">
   <header>
@@ -276,12 +306,23 @@ Et voilà and here we are.
 
   
   <p class="muted">
-    This page was generated using
+    This page was generated using a fork of
     <a target="_blank" rel="noopener" href="https://comfusion.github.io/after-dark/">After Dark</a>
     for
     <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>.
   </p>
 
+
+  
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117425007-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117425007-1');
+</script>
 
 </footer>
   </body>

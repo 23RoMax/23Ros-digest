@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.23ro.de/posts/how-to-increment-selected-values-inside-insert-statement/</loc>
+    <lastmod>2018-04-12T01:16:57+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/about/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/legal/</loc>
     <lastmod>2018-04-10T00:07:25+02:00</lastmod>
   </url>
   
@@ -76,14 +86,44 @@
   </url>
   
   <url>
+    <loc>http://www.23ro.de/tags/impress/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/impressum/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/legal-disclaimer/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/legalities/</loc>
+    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/tags/life/</loc>
     <lastmod>2018-04-10T00:07:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://www.23ro.de/categories/postgresql/</loc>
+    <lastmod>2018-04-12T01:16:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/posts/</loc>
-    <lastmod>2018-04-09T00:43:36+02:00</lastmod>
+    <lastmod>2018-04-12T01:16:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,8 +134,32 @@
   </url>
   
   <url>
+    <loc>http://www.23ro.de/tags/programming/</loc>
+    <lastmod>2018-04-12T01:16:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/tags/software/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/sql/</loc>
+    <lastmod>2018-04-12T01:16:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/sql-magic/</loc>
+    <lastmod>2018-04-12T01:16:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/sql-snippets/</loc>
+    <lastmod>2018-04-12T01:16:57+02:00</lastmod>
     <priority>0</priority>
   </url>
   

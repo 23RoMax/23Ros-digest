@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Mon, 09 Apr 2018 00:43:36 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Apr 2018 01:16:57 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How-To: Increment Selected Values Inside Insert Statement</title>
+      <link>http://www.23ro.de/posts/how-to-increment-selected-values-inside-insert-statement/</link>
+      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/posts/how-to-increment-selected-values-inside-insert-statement/</guid>
+      <description>Why would I need this? Imagine you want to fill a field of a table with a sequenctially value, but do not have any ID for a sequence and are using PostgreSQL, and you also already have information in this table that you want to append on. Well there is this option to use the internal ID (CID) provided by PostgreSQL, but this only works to a certain extent. And it won&amp;rsquo;t work if you have more than one combination to fulfill.</description>
+    </item>
     
     <item>
       <title>A Second Day With Hugo</title>
