@@ -2,7 +2,7 @@
 title: "A Second Day With Hugo"
 date: 2018-04-09T00:43:36+02:00
 draft: false
-categories: ["hugo"]
+categories: ["hugo", "tutorials"]
 tags: ["computer", "product", "software", "hugo", "development", "gohugo", "golang"]
 description: Second steps with hugo - migrating to another OS
 keywords: ["computer", "product", "software", "hugo", "development", "gohugo", "win10", "windows"]
@@ -22,7 +22,7 @@ This step can be skipped, but makes life easier for myself working on several di
 
 >... for tracking changes in computer files and coordinating work on those files among multiple people.
 
-![GIT merge conflict joke](http://s.quickmeme.com/img/b4/b4d1fc95e2b46d08efe0467cfece8f17ad8e37866267ea0241ab94d74e8c2333.jpg)
+![GIT merge conflict joke](/images/onlydev.jpg)
 
 If you want to read up more on this subject, there is plenty of documentation available, but git is pretty much self explanatory and only gets complicated when using different branches with multiple developers etc.
 
@@ -52,6 +52,6 @@ When trying to run my `hugo server -D` command to checkout my hugo pages on the 
 
 Also `hugo server` leaves me with a blank page on localhost:1313 - I do not know yet why and need to investigate this issue further. So far I have figured out, that 127.0.0.1:1313 works. This is also the reason, why I mentioned that setting things up on windows was a bad idea: I spent easily two hours looking for the issue of getting blank pages on localhost:1313 even though the static projects are created just fine. 
 
-![Fuck you win10](../stick_fuckyou.png)
+![Fuck you win10](/images/stick_fuckyou.png)
 
 I blame it on windows.

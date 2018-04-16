@@ -2,7 +2,7 @@
 title: "A New Day With Hugo"
 date: 2018-04-06T23:23:04+02:00
 draft: false
-categories: ["hugo"]
+categories: ["hugo", "tutorials"]
 tags: ["computer", "product", "software", "hugo", "development", "gohugo", "golang"]
 description: First steps with Hugo - not a Hello World, but a Hello Universe
 keywords: ["computer", "product", "software", "hugo", "development", "gohugo", "macos"]

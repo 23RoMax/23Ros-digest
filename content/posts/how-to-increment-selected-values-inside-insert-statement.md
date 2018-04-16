@@ -2,7 +2,7 @@
 title: "How-To: Increment Selected Values Inside Insert Statement"
 date: 2018-04-12T01:16:57+02:00
 draft: false
-categories: ["Postgresql"]
+categories: ["postgresql", "rdbms", "SQL"]
 tags: ["SQL", "programming", "SQL snippets", "sql magic"]
 description: "How-To: Increment Selected Values Inside Insert Statement"
 keywords: ["SQL", "programming", "SQL snippets", "23Ro", "sql", "magic"]
