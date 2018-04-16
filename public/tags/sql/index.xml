@@ -17,7 +17,8 @@
       <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
       
       <guid>http://www.23ro.de/posts/how-to-increment-selected-values-inside-insert-statement/</guid>
-      <description>Why would I need this? Imagine you want to fill a field of a table with a sequenctially value, but do not have any ID for a sequence and are using PostgreSQL, and you also already have information in this table that you want to append on. Well there is this option to use the internal ID (CID) provided by PostgreSQL, but this only works to a certain extent. And it won&amp;rsquo;t work if you have more than one combination to fulfill.</description>
+      <description>Welcome to my first snippet addition to this website. I hope you find this as helpful as I find it sometimes.
+Why would I need this? Imagine you want to fill a field of a table with a sequenctially value, but do not have any ID for a sequence and are using PostgreSQL, and you also already have information in this table that you want to append on. Well there is this option to use the internal ID (CID) provided by PostgreSQL, but this only works to a certain extent.</description>
     </item>
     
   </channel>

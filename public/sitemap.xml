@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.23ro.de/posts/initial-landing-page-but-more-a-first-post/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/posts/how-to-increment-selected-values-inside-insert-statement/</loc>
     <lastmod>2018-04-12T01:16:57+02:00</lastmod>
   </url>
@@ -39,13 +44,32 @@
   </url>
   
   <url>
+    <loc>http://www.23ro.de/categories/23ro/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/tags/about/</loc>
     <lastmod>2018-04-10T00:07:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://www.23ro.de/categories/about/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/categories/archive/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/categories/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,6 +82,18 @@
   <url>
     <loc>http://www.23ro.de/tags/development/</loc>
     <lastmod>2018-04-09T00:43:36+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/general/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/categories/general/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -116,6 +152,12 @@
   </url>
   
   <url>
+    <loc>http://www.23ro.de/categories/life/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/categories/postgresql/</loc>
     <lastmod>2018-04-12T01:16:57+02:00</lastmod>
     <priority>0</priority>
@@ -123,7 +165,7 @@
   
   <url>
     <loc>http://www.23ro.de/posts/</loc>
-    <lastmod>2018-04-12T01:16:57+02:00</lastmod>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -166,6 +208,12 @@
   <url>
     <loc>http://www.23ro.de/tags/</loc>
     <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/things/</loc>
+    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   

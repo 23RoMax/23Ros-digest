@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on 23Ro&#39;s Digest</title>
+    <link>http://www.23ro.de/categories/life/</link>
+    <description>Recent content in Life on 23Ro&#39;s Digest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <lastBuildDate>Mon, 16 Apr 2018 22:50:50 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.23ro.de/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ARCHIVED initial landing page - more a first post</title>
+      <link>http://www.23ro.de/posts/initial-landing-page-but-more-a-first-post/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/posts/initial-landing-page-but-more-a-first-post/</guid>
+      <description>Information: This went live initially on 2018-04-09 at 00:44:51+02:00 I decided to move this very nice first landing page to the posts sections, as it rather appears to me as a real post.
+A primer This is dedicated to all the time spent in front of computers. Finding a true way to express oneself in projects, and beginning to make a small private blog a habit. In all it&amp;rsquo;s glory, I will present you, the humble inventions, findings, and collections of myself, friends, family and fools.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,9 +6,46 @@
     <description>Recent content in Categories on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
+    <lastBuildDate>Mon, 16 Apr 2018 22:50:50 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>23ro</title>
+      <link>http://www.23ro.de/categories/23ro/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/23ro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.23ro.de/categories/about/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>http://www.23ro.de/categories/archive/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>http://www.23ro.de/categories/general/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/general/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo</title>
@@ -16,6 +53,15 @@
       <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://www.23ro.de/categories/life/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/life/</guid>
       <description></description>
     </item>
     
