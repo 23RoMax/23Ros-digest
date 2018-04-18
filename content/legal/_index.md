@@ -11,20 +11,20 @@ layout: single
 This blog is built, maintained, hosted, and completely located in Germany.
 In order to comply with the §5 TMG (Telemediengesetz) I have hereby added a legally correct disclaimer. As the content on this page might be related to my business activites, I am bound to add this section even though you will only see my private notes here. There will be no advertisement on this page, or monetization efforts. So this is solely a safety measure.
 
-#Impressum
+# Impressum
 
-##Angaben gemäß § 5 TMG:
+## Angaben gemäß § 5 TMG:
 ```
 Maximilian Nebl
 Anklamer Straße 14b
 10115 Berlin
 ```
-##Kontakt:
+## Kontakt:
 ```
 E-Mail: max@23ro.de
 ```
 
-##Haftung für Inhalte
+## Haftung für Inhalte
 
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den
 allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht
@@ -35,7 +35,7 @@ Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch ers
 Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden
 Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-##Haftung für Links
+## Haftung für Links
 
 Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben.
 Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der
@@ -46,7 +46,7 @@ Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konk
 Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links 
 umgehend entfernen.
 
-##Urheberrecht
+## Urheberrecht
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen
 Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der
@@ -58,11 +58,11 @@ beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten
 Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei
 Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-###Quelle: e-recht24.de
+### Quelle: e-recht24.de
 
-#Datenschutzerklärung
+# Datenschutzerklärung
 
-##Datenschutz
+## Datenschutz
 
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre
 personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie
@@ -75,7 +75,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
 möglich.
 
-##Server-Log-Files
+## Server-Log-Files
 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log
 Files, die Ihr Browser automatisch an uns übermittelt. Dies sind:
@@ -88,7 +88,7 @@ Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung die
 anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachträglich zu
 prüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.
 
-##Google Analytics
+## Google Analytics
 
 Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Inc.,
 1600 Amphitheatre Parkway Mountain View, CA 94043, USA.
@@ -97,7 +97,7 @@ gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm�
 den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen
 Server von Google in den USA übertragen und dort gespeichert.
 
-##Twitter
+## Twitter
 
 Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden
 angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch
@@ -109,7 +109,7 @@ in der Datenschutzerklärung von Twitter unter https://twitter.com/privacy.
 Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter:
 https://twitter.com/account/settings ändern.
 
-##Instagram
+## Instagram
 
 Auf unseren Seiten sind Funktionen des Dienstes Instagram eingebunden. Diese Funktionen werden
 angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA integriert. Wenn Sie
@@ -120,7 +120,7 @@ Kenntnis vom Inhalt der u?bermittelten Daten sowie deren Nutzung durch Instagram
 Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Instagram:
 https://instagram.com/about/legal/privacy/
 
-##LinkedIn
+## LinkedIn
 
 Unsere Website nutzt Funktionen des Netzwerks LinkedIn. Anbieter ist die LinkedIn Corporation, 2029
 Stierlin Court, Mountain View, CA 94043, USA. Bei jedem Abruf einer unserer Seiten, die Funktionen von
@@ -133,7 +133,7 @@ durch LinkedIn haben.
 Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von LinkedIn unter:
 https://www.linkedin.com/legal/privacy-policy
 
-##Spotify
+## Spotify
 
 Auf unseren Seiten sind Funktionen des Musik-Dienstes Spotify eingebunden. Anbieter ist die Spotify AB,
 Birger Jarlsgatan 61, 113 56 Stockholm in Schweden. Die Spotify PlugIns erkennen Sie an dem grünen
@@ -149,7 +149,7 @@ https://www.spotify.com/de/legal/privacy-policy/
 Wenn Sie nicht wünschen, dass Spotify den Besuch unserer Seiten Ihrem Spotify-Nutzerkonto zuordnen
 kann, loggen Sie sich bitte aus Ihrem Spotify-Benutzerkonto aus.
 
-##YouTube
+## YouTube
 
 Unsere Website nutzt Plugins der von Google betriebenen Seite YouTube. Betreiber der Seiten ist die
 YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. Wenn Sie eine unserer mit einem YouTubePlugin
@@ -161,7 +161,7 @@ ausloggen.
 Weitere Informationen zum Umgang von Nutzerdaten finden Sie in der Datenschutzerklärung von
 YouTube unter: https://www.google.de/intl/de/policies/privacy
 
-##SSL-Verschlüsselung
+## SSL-Verschlüsselung
 
 Diese Seite nutzt aus Gründen der Sicherheit und zum Schutz der Übertragung vertraulicher Inhalte, wie
 zum Beispiel der Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-Verschlüsselung. Eine
@@ -170,4 +170,4 @@ verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers
 Wenn die SSL Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von
 Dritten mitgelesen werden.
 
-###Quelle: eRecht24
+### Quelle: eRecht24
