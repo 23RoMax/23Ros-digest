@@ -75,11 +75,29 @@
     </item>
     
     <item>
+      <title>Privacy</title>
+      <link>http://www.23ro.de/categories/privacy/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rdbms</title>
       <link>http://www.23ro.de/categories/rdbms/</link>
       <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/rdbms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://www.23ro.de/categories/security/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/security/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,21 @@
     <description>Recent content in Posts on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Mon, 16 Apr 2018 22:50:50 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Apr 2018 22:49:48 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Access tokens, passwords, sensible data, and how to avoid a data breach</title>
+      <link>http://www.23ro.de/posts/acces-tokens-passwords/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/posts/acces-tokens-passwords/</guid>
+      <description>Some words about privacy (and data privacy) and how to assure it Many people consider the terms data protection, data privacy, and privacy in general to be synonyms, and even though they are all closely related, they complement each other without ever being the same.
+privacy: the quality or state of being apart from company or observation1
+data privacy: &amp;hellip;is about authorized access — who has it and who defines it2</description>
+    </item>
     
     <item>
       <title>ARCHIVED initial landing page - more a first post</title>

@@ -18,8 +18,7 @@ A Quote:
 ___
 
 ### Who am I?
-My name is Maximilian and I also go by the cryptic name 23Ro.
-I'm a technical product owner, professional bug catcher, and developer myself (though development is not official my current profession). My skillset is based on a technological foundation, with some outreaches to academical economics, but I went quickly back to the more technical side of things working my way steadily up the stream of challenges we encounter on a daily basis combingin the world of development, product management, and non-technical business tasks. 
+My name is Maximilian and I also go by the cryptic name 23Ro. I'm a technical product owner, professional bug catcher, and developer myself. My skillset is based on a technological foundation, with some outreaches to academical economics, but I went quickly back to the more technical side of things working my way steadily up the stream of challenges we encounter on a daily basis combining the world of development, product management, and non-technical business tasks. If you want to checkout some of the software projects I am, or I was involved in, check out [this](https://www.new-thread.de) and [that](https://www.tillhub.de).
 
 To find out more, you can also find me on these various platform:
 ___
