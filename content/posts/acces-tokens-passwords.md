@@ -1,5 +1,5 @@
 ---
-title: "Access tokens, passwords, sensible data, and how to avoid a data breach"
+title: "Access tokens, passwords, sensitive data, and how to avoid a data breach"
 date: 2018-04-18T22:49:48+02:00
 draft: false
 categories: ["security", "privacy"]
