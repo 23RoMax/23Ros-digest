@@ -9,7 +9,7 @@ keywords: ["data security", "passwords", "company", "business critical", "small 
 ---
 # Some words about privacy (and data privacy) and how to assure it
 
-Many people consider the terms data protection, data privacy, and privacy in general to be synonyms, and even though they are all closely related, they complement each other without ever being the same. 
+Many people consider the terms data protection, data privacy, and privacy in general to be synonyms, and even though they are all closely related, they complement each other without ever being the same.
 ___
 privacy: the quality or state of being apart from company or observation<sup>[1](https://www.merriam-webster.com/dictionary/privacy)</sup>
 
