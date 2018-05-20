@@ -37,7 +37,7 @@ For professional inquiries visit my companies website [New Thread](https://new-t
 
 ### What I do here and why I think I'm the right person to spread my knowledge
 
-As mentioned before, I dedicate this project to all the time spent in front of computers taking part in forming the modern world. We all contribute to a better understanding, if we share information that has been either shared with, or compiled by us. I deeply beliebe that everyone who has information worth sharing, should do so without contempt. However, if there is wrong information shared, or information of low quality, it can also have negative effects. If you find things interesting here, and/or learn something, I'm glad I could help. If you feel like I missed a point, or I'm sharing wrong information, please feel free to reach out to me or contribute.
+As mentioned before, I dedicate this project to all the time spent in front of computers taking part in forming the modern world. We all contribute to a better understanding, if we share information that has been either shared with, or compiled by us. I deeply believe that everyone who has information worth sharing, should do so without contempt. However, if there is wrong information shared, or information of low quality, it can also have negative effects. If you find things interesting here, and/or learn something, I'm glad I could help. If you feel like I missed a point, or I'm sharing wrong information, please feel free to reach out to me or contribute.
 
 ## Where am I
 
