@@ -8,15 +8,18 @@ description: First steps with Hugo - not a Hello World, but a Hello Universe
 keywords: ["computer", "product", "software", "hugo", "development", "gohugo", "macos"]
 ---
 
-## Initial Entry - no commit
+# Initial Entry - no commit
+
 Just doing the setup like described in the quickstart.
-### I'm trying to figure out what I'm doing here
-So setting up hugo was a smooth experience on my macbook. 
+
+## I'm trying to figure out what I'm doing here
+
+So setting up hugo was a smooth experience on my macbook.
 
 **1st Step:**
 
-Installing the depencie via 
-`brew install hugo` 
+Installing the depencie via
+`brew install hugo`
 
 **2nd Step:**
 
@@ -30,7 +33,7 @@ Et voilà and here we are. Now I was able to write my first blogpost in writedow
 
 **4th Step:**
 
-Having a look with `hugo server -D`. The param -D is used to let Hugo know, that it needs to compile the *.md file with draft set to true. 
+Having a look with `hugo server -D`. The param -D is used to let Hugo know, that it needs to compile the *.md file with draft set to true.
 
 **5th Step:**
 

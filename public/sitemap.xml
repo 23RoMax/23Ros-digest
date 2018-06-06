@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.23ro.de/posts/berlin-kreuzberg-trash-part-one/</loc>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/posts/sunday-is-golangday/</loc>
     <lastmod>2018-04-29T18:22:19+02:00</lastmod>
   </url>
@@ -78,6 +83,18 @@
   </url>
   
   <url>
+    <loc>http://www.23ro.de/tags/berlin/</loc>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/categories/berlin/</loc>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/tags/business-critical/</loc>
     <lastmod>2018-04-18T22:49:48+02:00</lastmod>
     <priority>0</priority>
@@ -115,13 +132,13 @@
   
   <url>
     <loc>http://www.23ro.de/tags/general/</loc>
-    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.23ro.de/categories/general/</loc>
-    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,6 +191,12 @@
   </url>
   
   <url>
+    <loc>http://www.23ro.de/tags/kreuzberg/</loc>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.23ro.de/tags/legal-disclaimer/</loc>
     <lastmod>2018-04-10T00:07:25+02:00</lastmod>
     <priority>0</priority>
@@ -187,19 +210,31 @@
   
   <url>
     <loc>http://www.23ro.de/tags/life/</loc>
-    <lastmod>2018-04-10T00:07:25+02:00</lastmod>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.23ro.de/categories/life/</loc>
-    <lastmod>2018-04-16T22:50:50+02:00</lastmod>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.23ro.de/tags/passwords/</loc>
     <lastmod>2018-04-18T22:49:48+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/photography/</loc>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/categories/photography/</loc>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,7 +246,7 @@
   
   <url>
     <loc>http://www.23ro.de/posts/</loc>
-    <lastmod>2018-04-29T18:22:19+02:00</lastmod>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -236,6 +271,12 @@
   <url>
     <loc>http://www.23ro.de/categories/programming/</loc>
     <lastmod>2018-04-29T18:22:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.23ro.de/tags/rant/</loc>
+    <lastmod>2018-06-06T22:40:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   

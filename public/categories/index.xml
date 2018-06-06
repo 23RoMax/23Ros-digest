@@ -39,9 +39,18 @@
     </item>
     
     <item>
+      <title>Berlin</title>
+      <link>http://www.23ro.de/categories/berlin/</link>
+      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>General</title>
       <link>http://www.23ro.de/categories/general/</link>
-      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/general/</guid>
       <description></description>
@@ -68,9 +77,18 @@
     <item>
       <title>Life</title>
       <link>http://www.23ro.de/categories/life/</link>
-      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://www.23ro.de/categories/photography/</link>
+      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/photography/</guid>
       <description></description>
     </item>
     
