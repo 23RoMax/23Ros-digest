@@ -27,3 +27,5 @@ My daily commute to work includes walking a beautiful strip of berlin roads. Nam
 ## Clearly some correct bottle disposal
 
 {{< instagram Bjssrbkli4c >}}
+
+I'm sure that trash is not the first thing anyone wants to see in his instagram feed. My goal is less to raise awareness of how much trash mankind actually generates, but rather how we handle it in our own neighbourhoods. I travel from Mitte/Prenzlauer Berg to Kreuzberg everyday, and I'm fully aware of the fact that these are two completely different district with a whole lot of cultural, political, and social differences. However, this is not a justification for dumping trash, littering, or just throwing special waste out on the streets. Also I like taking pictures with my phone, so if share my oppinion, feel free to share this on twitter or instagram.
