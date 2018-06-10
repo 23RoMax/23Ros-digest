@@ -61,11 +61,14 @@ func main() {
 }
 ```
 
-Saved as a *.go file in your preferred folder, you can now execute 
-```shell 
+Saved as a *.go file in your preferred folder, you can now execute
+
+```shell
 go run <yourfilename>.go
 ```
-to let it compile, link, and run in your current shell instance. If you want to build you file and create a binary you need to run 
+
+to let it compile, link, and run in your current shell instance. If you want to build you file and create a binary you need to run
+
 ```shell
 go build <yourfilename>.go
 ```

@@ -50,7 +50,7 @@
     <item>
       <title>General</title>
       <link>http://www.23ro.de/categories/general/</link>
-      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/general/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Life</title>
       <link>http://www.23ro.de/categories/life/</link>
-      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/life/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Photography</title>
       <link>http://www.23ro.de/categories/photography/</link>
-      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/photography/</guid>
       <description></description>
@@ -143,6 +143,15 @@
       <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tlr</title>
+      <link>http://www.23ro.de/categories/tlr/</link>
+      <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/tlr/</guid>
       <description></description>
     </item>
     
