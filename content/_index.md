@@ -33,7 +33,7 @@ ___
 ](https://www.instagram.com/23_r0/)
 </p>
 ___
-For professional inquiries visit my companies website [New Thread](https://new-thread.de) or for direct interest in my vitae checkout my [CV](http://mndev.info/cv).
+For professional inquiries visit my companies website [New Thread](https://new-thread.de).
 
 ### What I do here and why I think I'm the right person to spread my knowledge
 

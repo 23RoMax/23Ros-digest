@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life on 23Ro&#39;s Digest</title>
+    <title>life on 23Ro&#39;s Digest</title>
     <link>http://www.23ro.de/tags/life/</link>
-    <description>Recent content in Life on 23Ro&#39;s Digest</description>
+    <description>Recent content in life on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Sun, 10 Jun 2018 22:23:30 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 18:04:49 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A life without advertisements - Pihole DNS Adblocker</title>
+      <link>http://www.23ro.de/posts/pihole/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/posts/pihole/</guid>
+      <description>You have enough of advertisement? Yes, who hasn&amp;rsquo;t&amp;hellip; You say you are using an AdBlocker? What if I tell you, there is a much better option than using an AdBlocker. It will safe internet traffic, it will boost loading speeds, and it will give you much more control about everything. Sounds tempting right?
+So, if you have a spare one of these: , or even if you don&amp;rsquo;t, check out this tutorial!</description>
+    </item>
     
     <item>
       <title>WZFO Start-B - a medium format camera</title>
@@ -27,33 +37,6 @@
       
       <guid>http://www.23ro.de/posts/berlin-kreuzberg-trash-part-one/</guid>
       <description>My daily commute to work includes walking a beautiful strip of berlin roads. Namely: Prinzenstraße, and its side-, and crossroads. I pass a lot of green until I reach our office (from Moritzplatz to Gitschinerstraße), conveniently located next to a brothel and close to Prinzenstraße U-Bahn Station, in one of the rear courtyard of a Gitschiner Straße building (luckily freshly renovated). However, this beautiful path is frequently destroyed by what I encounter there&amp;hellip;.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.23ro.de/about/</link>
-      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>legal disclaimer</title>
-      <link>http://www.23ro.de/legal/</link>
-      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/legal/</guid>
-      <description>This blog is built, maintained, hosted, and completely located in Germany. In order to comply with the §5 TMG (Telemediengesetz) I have hereby added a legally correct disclaimer. As the content on this page might be related to my business activites, I am bound to add this section even though you will only see my private notes here. There will be no advertisement on this page, or monetization efforts. So this is solely a safety measure.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to the humble mindspace of 23Ro</title>
-      <link>http://www.23ro.de/</link>
-      <pubDate>Mon, 09 Apr 2018 00:44:51 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/</guid>
-      <description>A primer This is dedicated to all the time spent in front of computers. Finding a true way to express oneself in projects. In all it&amp;rsquo;s glory, I will present you, the humble inventions, findings, and collections of myself, friends, family and fools. This website is built with hugo, where content is mainly written in markdown and insanely fast converted to a static website. I write about technology, the business world around development, software engineering, my hobbies and little projects that I pursue to keep life interesting.</description>
     </item>
     
   </channel>

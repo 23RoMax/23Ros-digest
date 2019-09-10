@@ -4,7 +4,7 @@ date: 2018-06-10T22:23:30+02:00
 draft: false
 categories: ["general", "life", "photography", "TLR"]
 tags: ["general", "life", "photography", "TLR", "twin lens reflex", "wzfo", "start-b"]
-description: "About a polish twin lens reflex camera that doesn't get enough attentation"
+description: "About a polish twin lens reflex camera that doesn't get enough attention"
 keywords: ["TLR", "analog photography", "twin lens reflex", "120 film", "photography", "wzfo", "start-b", "poland"]
 ---
 

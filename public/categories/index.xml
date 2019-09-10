@@ -6,85 +6,67 @@
     <description>Recent content in Categories on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Mon, 16 Apr 2018 22:50:50 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 18:04:49 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>23ro</title>
-      <link>http://www.23ro.de/categories/23ro/</link>
-      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/23ro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.23ro.de/categories/about/</link>
-      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>http://www.23ro.de/categories/archive/</link>
-      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/archive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Berlin</title>
-      <link>http://www.23ro.de/categories/berlin/</link>
-      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/berlin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>General</title>
+      <title>general</title>
       <link>http://www.23ro.de/categories/general/</link>
-      <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/general/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>http://www.23ro.de/categories/golang/</link>
-      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://www.23ro.de/categories/hugo/</link>
-      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
+      <title>life</title>
       <link>http://www.23ro.de/categories/life/</link>
-      <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
       
       <guid>http://www.23ro.de/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photography</title>
+      <title>lifehacks</title>
+      <link>http://www.23ro.de/categories/lifehacks/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/lifehacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>http://www.23ro.de/categories/projects/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry pi</title>
+      <link>http://www.23ro.de/categories/raspberry-pi/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>http://www.23ro.de/categories/tutorial/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
       <link>http://www.23ro.de/categories/photography/</link>
       <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
@@ -93,61 +75,7 @@
     </item>
     
     <item>
-      <title>Postgresql</title>
-      <link>http://www.23ro.de/categories/postgresql/</link>
-      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/postgresql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy</title>
-      <link>http://www.23ro.de/categories/privacy/</link>
-      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>http://www.23ro.de/categories/programming/</link>
-      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rdbms</title>
-      <link>http://www.23ro.de/categories/rdbms/</link>
-      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/rdbms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>http://www.23ro.de/categories/security/</link>
-      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sql</title>
-      <link>http://www.23ro.de/categories/sql/</link>
-      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/categories/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tlr</title>
+      <title>TLR</title>
       <link>http://www.23ro.de/categories/tlr/</link>
       <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
@@ -156,7 +84,115 @@
     </item>
     
     <item>
-      <title>Tutorials</title>
+      <title>berlin</title>
+      <link>http://www.23ro.de/categories/berlin/</link>
+      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://www.23ro.de/categories/golang/</link>
+      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>http://www.23ro.de/categories/programming/</link>
+      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>http://www.23ro.de/categories/privacy/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>http://www.23ro.de/categories/security/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>23Ro</title>
+      <link>http://www.23ro.de/categories/23ro/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/23ro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://www.23ro.de/categories/about/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archive</title>
+      <link>http://www.23ro.de/categories/archive/</link>
+      <pubDate>Mon, 16 Apr 2018 22:50:50 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postgresql</title>
+      <link>http://www.23ro.de/categories/postgresql/</link>
+      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rdbms</title>
+      <link>http://www.23ro.de/categories/rdbms/</link>
+      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/rdbms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>http://www.23ro.de/categories/sql/</link>
+      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://www.23ro.de/categories/hugo/</link>
+      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorials</title>
       <link>http://www.23ro.de/categories/tutorials/</link>
       <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
       
