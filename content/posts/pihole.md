@@ -192,4 +192,4 @@ Now depending on your ISP (Internet service provider) and your router, you will 
 
 This setting will get propogated to all the devices in the network using DHCP to get a IP.
 
-I hope you had fin with this little tutorial!
+That's, you and your network are setup for the use of PiHole!
