@@ -20,8 +20,18 @@ googleAnalytics = "UA-117425007-1"
   weight = 3
   identifier = "About"
   url = "/about/"
-  [[menu.main]]
-  name = "Legal Disclaimer"
+[[menu.main]]
+  name = "Photography"
   weight = 4
+  identifier = "Photography"
+  url = "https://23ro.photography/"
+[[menu.main]]
+  name = "New Thread"
+  weight = 5
+  identifier = "New Thread"
+  url = "https://new-thread.tech/"
+[[menu.main]]
+  name = "Legal Disclaimer"
+  weight = 6
   identifier = "Legal Disclaimer"
   url = "/legal/"
