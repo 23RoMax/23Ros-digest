@@ -6,10 +6,20 @@
     <description>Recent content in About on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Tue, 10 Apr 2018 00:07:25 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 00:44:51 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to the humble mindspace of 23Ro</title>
+      <link>http://www.23ro.de/</link>
+      <pubDate>Sat, 28 Dec 2019 00:44:51 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/</guid>
+      <description>A primer This is dedicated to all the time spent in front of my computers. Exploring new projects, oportunities and studying. In all it&amp;rsquo;s glory, I present you, the humble inventions, findings, and collections of myself, friends, family and fools. This website is built with hugo, where content is mainly written in markdown and insanely fast converted to a static website - it&amp;rsquo;s fun.
+I tend to write about all sorts of technology, sometimes about the business world around development, software engineering, my hobbies and little projects that I pursue to keep life interesting.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,16 +27,10 @@
       <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
       
       <guid>http://www.23ro.de/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome to the humble mindspace of 23Ro</title>
-      <link>http://www.23ro.de/</link>
-      <pubDate>Mon, 09 Apr 2018 00:44:51 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/</guid>
-      <description>A primer This is dedicated to all the time spent in front of computers. Finding a true way to express oneself in projects. In all it&amp;rsquo;s glory, I will present you, the humble inventions, findings, and collections of myself, friends, family and fools. This website is built with hugo, where content is mainly written in markdown and insanely fast converted to a static website. I write about technology, the business world around development, software engineering, my hobbies and little projects that I pursue to keep life interesting.</description>
+      <description>My Name is Maximilian, most of my time is spent on my favourite topic - technology. I work as a product owner, developer, manager, mostly on the Fintech SaaS industry.
+Besides the passion for technology, I like taking photos of everyday things - check out my photography page:
+23ro.photography and find me on 
+and spend time on my two wheeled toys: a Cagiva Raptor 650 IE (2006) &amp;amp; a Cagive Mito Evo (2001).</description>
     </item>
     
   </channel>
