@@ -3,11 +3,6 @@ languageCode = "en-en"
 title = "23Ro's Digest"
 theme = "after-dark"
 
-[caches]
-    [caches.getjson]
-    dir = ":cacheDir/:project"
-    maxAge = -1
-
 key = "AIzaSyBZEomtIf7jODJZpboI_HOQJHjTBmQKl_A"
 googleAnalytics = "UA-117425007-1"
 
