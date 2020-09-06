@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-en">
   <head>
-    <meta name="generator" content="Hugo 0.58.1" />
+    <meta name="generator" content="Hugo 0.74.3" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>How-To: Increment Selected Values Inside Insert Statement | 23Ro&#39;s Digest</title>
@@ -36,17 +36,6 @@
 
     
     
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-117425007-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
     
     <link rel="canonical" href="http://www.23ro.de/posts/how-to-increment-selected-values-inside-insert-statement/">
     
@@ -205,43 +194,28 @@ article header img {
   <header>
     <h1>How-To: Increment Selected Values Inside Insert Statement</h1>
   </header>
-  
-
-<p>Welcome to my first snippet addition to this website. I hope you find this as helpful as I find it sometimes.</p>
-
+  <p>Welcome to my first snippet addition to this website. I hope you find this as helpful as I find it sometimes.</p>
 <h1 id="why-would-i-need-this">Why would I need this?</h1>
-
 <p>Imagine you want to fill a field of a table with a sequenctially value, but do not have any ID for a sequence and are using PostgreSQL, and you also already have information in this table that you want to append on. Well there is this option to use the internal ID (CID) provided by PostgreSQL, but this only works to a certain extent. And it won&rsquo;t work if you have more than one combination to fulfill.
 E.g. you want to increment Field 1 but let Field 2 stay the same until a threshold or other condition is fulfilled? This is a very simple solution for the mentioned problem:</p>
-
 <p>myTable:</p>
-
 <pre><code>| id            | myIncrement   | other |
 | ------------- |:-------------:| -----:|
 | UUIDX         | 1             | 1600  |
 | UUIDY         | 2             | 1600  |
 | UUIDZ         | 3             | 1600  |
-</code></pre>
-
-<p>id type uuid
+</code></pre><p>id type uuid
 myIncrement type varchar
 other type varchar</p>
-
 <p>If you already have INT fields, the better.</p>
-
 <h2 id="solution-proposal">Solution proposal</h2>
-
-<pre><code class="language-sql">INSERT INTO myTable(myIncrement, other, id) VALUES (
-    (SELECT (myIncrement::INT + 1) FROM myTable ORDER BY myTable DESC LIMIT 1),
-    (SELECT other FROM myTable),
-    (SELECT gen_random_uuid())
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#66d9ef">INSERT</span> <span style="color:#66d9ef">INTO</span> myTable(myIncrement, other, id) <span style="color:#66d9ef">VALUES</span> (
+    (<span style="color:#66d9ef">SELECT</span> (myIncrement::INT <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>) <span style="color:#66d9ef">FROM</span> myTable <span style="color:#66d9ef">ORDER</span> <span style="color:#66d9ef">BY</span> myTable <span style="color:#66d9ef">DESC</span> <span style="color:#66d9ef">LIMIT</span> <span style="color:#ae81ff">1</span>),
+    (<span style="color:#66d9ef">SELECT</span> other <span style="color:#66d9ef">FROM</span> myTable),
+    (<span style="color:#66d9ef">SELECT</span> gen_random_uuid())
 )
-</code></pre>
-
-<p>Executing this multiple times would lead to this table:</p>
-
+</code></pre></div><p>Executing this multiple times would lead to this table:</p>
 <p>myTable:</p>
-
 <pre><code>| id            | myIncrement   | other |
 | ------------- |:-------------:| -----:|
 | UUIDX         | 1             | 1600  |
@@ -253,7 +227,6 @@ other type varchar</p>
 | UUIDU         | 7             | 1600  |
 | UUIDI         | 8             | 1600  |
 </code></pre>
-
 </main>
     <footer>
   
@@ -261,7 +234,8 @@ other type varchar</p>
     This page was generated using a fork of
     <a target="_blank" rel="noopener" href="https://comfusion.github.io/after-dark/">After Dark</a>
     for
-    <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>.
+    <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>
+    and is hosted on firebase.
   </p>
 
 

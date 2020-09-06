@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sunday-funday on 23Ro&#39;s Digest</title>
@@ -18,7 +18,7 @@
       
       <guid>http://www.23ro.de/posts/sunday-is-golangday/</guid>
       <description>Sunday is Golangday will be a new series of golang related learnings of mine. As I have just started learning Golang, this will be mainly focusing on the basics of the go programming language.
- Gopher image by Renee French, licensed under Creative Commons 3.0 Attributions license.  What is golang Go (by Google) is a programming language created at Google in 2009. Not to be confused with Go! (a functional programming language developed by Francis McCabe, and Keith Clark and first appeared in 2003).</description>
+What is golang Go (by Google) is a programming language created at Google in 2009. Not to be confused with Go! (a functional programming language developed by Francis McCabe, and Keith Clark and first appeared in 2003).</description>
     </item>
     
   </channel>

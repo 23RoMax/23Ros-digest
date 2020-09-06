@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 23Ro&#39;s Digest</title>
@@ -53,6 +53,24 @@
       <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
       
       <guid>http://www.23ro.de/tags/things/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>23Ro</title>
+      <link>http://www.23ro.de/tags/23ro/</link>
+      <pubDate>Sat, 28 Dec 2019 00:44:51 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/23ro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://www.23ro.de/tags/about/</link>
+      <pubDate>Sat, 28 Dec 2019 00:44:51 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/about/</guid>
       <description></description>
     </item>
     
@@ -332,6 +350,42 @@
       <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
       
       <guid>http://www.23ro.de/tags/sql-snippets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impress</title>
+      <link>http://www.23ro.de/tags/impress/</link>
+      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/impress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impressum</title>
+      <link>http://www.23ro.de/tags/impressum/</link>
+      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/impressum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>legal disclaimer</title>
+      <link>http://www.23ro.de/tags/legal-disclaimer/</link>
+      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/legal-disclaimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>legalities</title>
+      <link>http://www.23ro.de/tags/legalities/</link>
+      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/legalities/</guid>
       <description></description>
     </item>
     

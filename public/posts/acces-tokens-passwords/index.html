@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-en">
   <head>
-    <meta name="generator" content="Hugo 0.58.1" />
+    <meta name="generator" content="Hugo 0.74.3" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Access tokens, passwords, sensitive data, and how to avoid a data breach | 23Ro&#39;s Digest</title>
@@ -36,17 +36,6 @@
 
     
     
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-117425007-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
     
     <link rel="canonical" href="http://www.23ro.de/posts/acces-tokens-passwords/">
     
@@ -205,105 +194,56 @@ article header img {
   <header>
     <h1>Access tokens, passwords, sensitive data, and how to avoid a data breach</h1>
   </header>
-  
-
-<h1 id="some-words-about-privacy-and-data-privacy-and-how-to-assure-it">Some words about privacy (and data privacy) and how to assure it</h1>
-
+  <h1 id="some-words-about-privacy-and-data-privacy-and-how-to-assure-it">Some words about privacy (and data privacy) and how to assure it</h1>
 <p>Many people consider the terms data protection, data privacy, and privacy in general to be synonyms, and even though they are all closely related, they complement each other without ever being the same.</p>
-
-<hr />
-
-<p>privacy: the quality or state of being apart from company or observation<sup><a href="https://www.merriam-webster.com/dictionary/privacy">1</a></sup></p>
-
-<p>data privacy: &hellip;is about authorized access — who has it and who defines it<sup><a href="https://blog.ipswitch.com/data-privacy-vs-data-protection">2</a></sup></p>
-
-<p>data protection: &hellip;is about securing data against unauthorized access.<sup><a href="https://blog.ipswitch.com/data-privacy-vs-data-protection">3</a></sup></p>
-
-<hr />
-
+<hr>
+<p>privacy: the quality or state of being apart from company or observation<!-- raw HTML omitted --><a href="https://www.merriam-webster.com/dictionary/privacy">1</a><!-- raw HTML omitted --></p>
+<p>data privacy: &hellip;is about authorized access — who has it and who defines it<!-- raw HTML omitted --><a href="https://blog.ipswitch.com/data-privacy-vs-data-protection">2</a><!-- raw HTML omitted --></p>
+<p>data protection: &hellip;is about securing data against unauthorized access.<!-- raw HTML omitted --><a href="https://blog.ipswitch.com/data-privacy-vs-data-protection">3</a><!-- raw HTML omitted --></p>
+<hr>
 <p>Whilst privacy is part of data privacy and data privacy is thus just extended in order to achieve a clearer understanding of which privacy one is referring to, it doesn&rsquo;t exclude the mere problem of still being under surveillance (like in privacy defined) and therefore being endangered of a possible data breach. Whereas data protection is about assuring that the possibility of a data breach, is as low as possible.</p>
-
 <p>So that no penguins can be like:</p>
-
-<p><center><img src="/images/getinfo.gif" alt="Get your Information" /></center></p>
-
+<!-- raw HTML omitted -->
 <h1 id="6-basic-rules-to-store-passwords-access-token-and-other-sensitive-data-securely-and-private">6 Basic rules to store passwords, access token, and other sensitive data securely and private</h1>
-
 <p>Most of these tips will be a no-brainer and come as no surprise, but especially because of this, it is of uttermost importance to pursue it, rather than just pray it. In organizational structures, people develop antipatterns very quickly (especially in software development, and other highly process structured environments). It starts out as a &ldquo;shortcut&rdquo; because Employee A needs to have quick access, that&rsquo;s why he wrote a password on a post-it next to his machine. Suddenly, all other employees do the same and a massive data breach is just a matter of time. Worst thing I&rsquo;ve ever seen is writing down customer passwords on a random sheet of paper, leaving it in the wild for days. How to mitigate these issues is easily explained, but very hard to implement. Once an employee has developed a certain behaviour, it is very hard to retrain them. Thus, do not even start with poor management of sensitive information such as access tokens, and passwords.</p>
-
 <h2 id="1-have-a-strong-password-creation-policy">1. Have a strong password creation policy</h2>
-
 <p>All services and SaaS Tools that require authentication have their own password policy. But having a company own password policy (defining proper requirements for a password used to authenticate accounts in company context) that lifts password complexity to a maximum, and thus making passwords more sturdy against brute force attacks, should be in place. This, of course, means that passwords are getting harder to remember, but if you can not remember that 32 characters long password with at least five special characters and alternated cases, do not fear and read rule number 3.</p>
-
 <h2 id="2-stop-sharing-accounts">2. Stop sharing accounts</h2>
-
 <p>Sharing accounts means sharing credentials - DO NOT EVER DO THIS! Especially not in a company/organizational environment. This most certainly always implies, that sooner or later, the account will be abused for malicious actions. Sharing credentials is basically not having authentification at all. It defeats the purpose. It is common practice to share accounts for internal tools like ZenDesk (for Ops), or Atlassian Cloud for engineering, which leads to uncontrollability of those tools. Even if the shared &ldquo;stakeholder&rdquo; account, as one might call it, has limited permissions, this account is more likely to create a data breach, as more users know the credentials than one. The likelihood of a data breach can be seen as a exponential curve, the more user share an account and thus have knowledge about the access, probably written down somewhere, the likelier it is that one of the users is having a data breach exposing the credentials to potential invaders. The common argument: &ldquo;But we know who has the password, if someone does bad things, we will surely figure out who in our company deleted the file&hellip;.&rdquo; is simply wrong. Another common argument of limited permissions is easy to beat. Limited and controlled access does not stop other people from finding backdoors or possible bugs in systems that are out of your control. All the above-mentioned tools, that are used on a daily basis in thousands of companies have error-prone code. As most of this software is closed source, bugs and vulnerabilities are much more likely. Furthermore, the publication of possible vulnerabilities underlies the company itself, and they can remain in &ldquo;To-Do&rdquo; for ages.
 Thus, there can be zero days exploits that can potentially be used after having an entry point to the system like a shared account, that leaked because of one of the employees tends to search for weird things on the internet.</p>
-
 <p>If your CEO, COO, CFO or finance department tells you, that it is too expensive to buy slots for every employee in every tool, than you should reconsider your choice of tooling and switch to a much safer self hosted open source solution (which might have increased cost due to maintenance and self hosting), or simply reconsider your tooling choices in general. Most of the bigger platforms provide the tooling for all disciplins and you might be able to use the same platform/SaaS company product within different departments. Consolidate, or remove tools completely. Or just bite the bullet and spend a bit more money on unshared accounts, rather than having a ticking timebomb that will be much more expensive than accounts being shared, and compromised.</p>
-
 <h2 id="3-use-a-password-manager">3. Use a password manager</h2>
-
 <p>This comes as no surprise, a password manager should be a basic tool every user within a company should have. Every employee that deals with passwords, access tokens, or other information, should be taught how to use a password manager. Otherwise, people will begin to create their own password management and the things I have encountered yet range from password protected excel sheets, to google sheets in google drive, post-it notes with full credentials on the desk, or textfiles. All of these options are equally wrong: completely wrong. It is not an option to store a password like this. It is highly understandable, that in a modern environment with several access tokens, not everyone is capable of memorizing all of them. Especially managers should always keep this in mind and enforce the usage of password managers. This way, the employees need to remember only one save password matching the password requirements mentioned in step 1. This should be part of the onboarding process of the new employee. Ideally, the password for the password manager is memorized immediately. Due to the unlikeliness, the password can be stored in a trustworthy place encrypted on an usb stick or other offline media, which is only readable with the GPG Key of the employee that he created on his machine. This allows only the user onwing the key and the file to read it. A fireproof safe for media (more in rule number four), is a perfect place to store such a file on a usb stick.</p>
-
 <p>There are tons of &ldquo;best password manager&rdquo;-lists available, if you want a ressource on good software, here are some links:</p>
-
 <p><a href="https://opensource.com/article/16/12/password-managers">opensource.com</a></p>
-
 <p>Mentioning KeyPass, KeyPassX, Padlock, and Passbolt as open source and partially self hosted solutions.</p>
-
 <p>Also worth mentioning is Encryptr from Spideroak:</p>
-
 <p><a href="https://spideroak.com/encryptr/">Spideroak - Encryptr</a></p>
-
 <p>Currently my choice of software for password management, due to the easy, clean interface, and the fact that it runs on all platforms plus it is also open source.</p>
-
 <p>There are several commercial alternatives that work very well too, like LastPass or 1Password. However, the benefits of picking open source software is, that the code is open for review, and therefore, less likely to create vulnerable software.
 Hosting can always be a problem, if you don&rsquo;t trust a zero knowledge cloud, you should consider hosting an instance of Passbolt yourself.</p>
-
-<h2 id="3-1-don-t-lock-yourself-out">3.1 Don&rsquo;t lock yourself out</h2>
-
+<h2 id="31-dont-lock-yourself-out">3.1 Don&rsquo;t lock yourself out</h2>
 <p>It happenes that people trap themself out of systems because they saved their login to a pwd manager inside of their account. It might sound silly, but I&rsquo;ve seen that happen.</p>
-
 <h2 id="4-managing-revocation-certificates-one-time-tokens-and-master-passwords">4. Managing revocation certificates, one time tokens, and Master Passwords</h2>
-
 <p>Easiest of all, avoid situations where you create unnecessary new certificates, tokens, or master passwords. Keep things simple, and precise. However, a lot of these keys need to be stored offline and non-digital.</p>
-
 <p>If it is only the owner, that needs the information, one can use the password safe. If a revocation certificate for a GPG Key is stored for e.g. additional security for authentication of API access of third parties or similar, it implies a handover process of the key, or multiple user must have access to it. This is not contradicting with rule #2, we are not talking about shared credentials. MasterPasswords (e.g. for Database access of production environments) are another example for this scenario.</p>
-
 <p>So how to save this kind of sensitive information?</p>
-
 <p>Put it in a safe. It&rsquo;s that simple, for everything that you can possibly need, and that needs to be shared with other employees plus it needs to be offline available - put it in a safe. But buy a proper one that is fireproof, fixed and made for datadrives. This way you can easily risk a fire and let your location burn down, while bbqing some sausages not needing to worry about the Database Masterkey that is stored as an GPG encrypted textfile in an image (steganography - more on this topic later) on a AES256 encrypted USB Stick. Now you just need to worry in one case: that is all the people that know the different keys to enter the safe, unlock the usb stick, and everything else, are inside of the building that is burning down.</p>
-
-<p><center><iframe src="https://giphy.com/embed/zcchHpCm44aac" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center></p>
-
-<p>Another really neat way to save this kind of information is buying the above mentioned type of USB Stick, so that people that have the responsibility to maintain a product remotely and at any time, have a secure option to carry the keys with them. But as always, do not rely on one person, otherwise you will have a bus factor <sup><a href="https://en.wikipedia.org/wiki/Bus_factor">4</a></sup> situation.</p>
-
+<!-- raw HTML omitted -->
+<p>Another really neat way to save this kind of information is buying the above mentioned type of USB Stick, so that people that have the responsibility to maintain a product remotely and at any time, have a secure option to carry the keys with them. But as always, do not rely on one person, otherwise you will have a bus factor <!-- raw HTML omitted --><a href="https://en.wikipedia.org/wiki/Bus_factor">4</a><!-- raw HTML omitted --> situation.</p>
 <h2 id="5-use-two-tier-authentication-where-you-can">5. Use two tier authentication where you can</h2>
-
 <p>It&rsquo;s very easy - make use of two tier authentication whenever possible. Apple is a great example of providing proper two tier auth. For becoming a B2B Volume Purchasing Programm member, a user does not even have the chance, to skip this option. It enforces the user to activate two tier authentication. A lot of people secure their Steam, or Battle.net accounts with two tier auth., but leave their Apple ID (which allows possible intruders to track people, read information from iCloud etc.) unsecured. If a company provides the option, one should make use of it.</p>
-
 <h2 id="6-learn-about-steganography-and-use-it">6. Learn about Steganography and use it</h2>
-
-<p>Steganography is the hiding of a secret message within an ordinary message and the extraction of it at its destination<sup><a href="https://searchsecurity.techtarget.com/definition/steganography">5</a></sup>. There is room for creative use with the knowledge about steganography. Steganography allows the user to save data (e.g. a text or a file) within an image, like this awesome fireproof data safe. It can also be saved in audio files. If you feel reminded about Mr. Robot, well, yes than you know that the writers did their research there. AES encryption of messages is also possible.</p>
-
+<p>Steganography is the hiding of a secret message within an ordinary message and the extraction of it at its destination<!-- raw HTML omitted --><a href="https://searchsecurity.techtarget.com/definition/steganography">5</a><!-- raw HTML omitted -->. There is room for creative use with the knowledge about steganography. Steganography allows the user to save data (e.g. a text or a file) within an image, like this awesome fireproof data safe. It can also be saved in audio files. If you feel reminded about Mr. Robot, well, yes than you know that the writers did their research there. AES encryption of messages is also possible.</p>
 <p>Saving information in jpg files, can alter the filesize and thus point to hidden information. It is not recommended to hide big files within a cat image that is obviously not that big. However, saving some credentials, or a master password, within a scanned jpg of a document that is obsolete but seems to be important enough to save it on a secure USB Stick, might just be the perfect decoy. I also recommend saving the jpg inside of an pdf. Extracting the original is no problem and it can be decoded as usual.</p>
-
-<p><center><img src="/images/safe_with_message.jpg" alt="Get your Information" /></center></p>
-
+<!-- raw HTML omitted -->
 <p>Most tools available use the LSB method (Least significant bit) instead of adding bits and increasing the chance of being read out easily(such as in the file header). It replaces bits of the original file, that are not used. In a rgb bitmap the pixel is defined by three bytes for the color information. Most of the times not all of the 8 bits are used to define the color, therefore one could alter the LSB and gain three bits to store other information. This also has the benefit of not increasing the filesize.</p>
-
 <p>Here is some more indepth ressource to the topic: <a href="https://null-byte.wonderhowto.com/how-to/steganography-hide-secret-data-inside-image-audio-file-seconds-0180936/">read me</a></p>
-
-<p><center><iframe src="https://giphy.com/embed/26ufdipQqU2lhNA4g" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center></p>
-
+<!-- raw HTML omitted -->
 <h1 id="7-learn-about-cryptography-and-use-it">7. Learn about cryptography and use it</h1>
-
 <p>Cryptography tools like <a href="https://www.gnupg.org/">GPG</a> help you to keep privacy and verify the source of documents. It&rsquo;s widely used in E-Mails and other communication, as well as to encrypt data or information. Basically, the main functionality is issuing private keys, and corresponding public keys, and encrypting the message that needs to be stored or sent. For more on the functionality of cryptography with <a href="https://www.gnupg.org/gph/en/manual.html">GPG see here</a>. The documentation also explains very well, how to manage your keys, key integrity, and the revocation process.</p>
-
 <p>If managers, and employees alike follow by these simple rules and tips, a much safer environment is created. Implement a standard set of processes for information security in your onboarding process of new employees, and the likelihood to succeed in creating a safe environment in your company is much higher.</p>
-
-<p><center><iframe src="https://giphy.com/embed/2xMO4pzC0TLLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center></p>
+<!-- raw HTML omitted -->
 
 </main>
     <footer>
@@ -312,7 +252,8 @@ Hosting can always be a problem, if you don&rsquo;t trust a zero knowledge cloud
     This page was generated using a fork of
     <a target="_blank" rel="noopener" href="https://comfusion.github.io/after-dark/">After Dark</a>
     for
-    <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>.
+    <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>
+    and is hosted on firebase.
   </p>
 
 

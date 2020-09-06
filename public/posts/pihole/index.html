@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-en">
   <head>
-    <meta name="generator" content="Hugo 0.58.1" />
+    <meta name="generator" content="Hugo 0.74.3" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>A life without advertisements - Pihole DNS Adblocker | 23Ro&#39;s Digest</title>
@@ -36,17 +36,6 @@
 
     
     
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-117425007-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
     
     <link rel="canonical" href="http://www.23ro.de/posts/pihole/">
     
@@ -205,28 +194,16 @@ article header img {
   <header>
     <h1>A life without advertisements - Pihole DNS Adblocker</h1>
   </header>
-  
-
-<p>You have enough of advertisement? Yes, who hasn&rsquo;t&hellip; You say you are using an AdBlocker? What if I tell you, there is a much better option than using an AdBlocker. It will safe internet traffic, it will boost loading speeds, and it will give you much more control about everything. Sounds tempting right?</p>
-
-<p>So, if you have a spare one of these: <img src="/images/1280px-Raspberry_Pi_Logo.svg@0,25x.png" alt="Raspberry Pi" />, or even if you don&rsquo;t, check out this tutorial!</p>
-
+  <p>You have enough of advertisement? Yes, who hasn&rsquo;t&hellip; You say you are using an AdBlocker? What if I tell you, there is a much better option than using an AdBlocker. It will safe internet traffic, it will boost loading speeds, and it will give you much more control about everything. Sounds tempting right?</p>
+<p>So, if you have a spare one of these: <img src="/images/1280px-Raspberry_Pi_Logo.svg@0,25x.png" alt="Raspberry Pi">, or even if you don&rsquo;t, check out this tutorial!</p>
 <p>And if you don&rsquo;t have a spare <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a> lying around, <a href="https://amzn.to/2ZUPEEt">get one</a>, they are 30 Bucks and it&rsquo;s very much worth it! (Check the links below!)</p>
-
 <h1 id="what-is-a-pihole">What is a PiHole?</h1>
-
 <p>A <a href="https://pi-hole.net/">PiHole</a> is a DNS level, network wide, Ad Blocker. It advertises itself as the Black Hole for Internet Advertisements in your Home Network.
 It can be hosted locally, or remotely, and it can be deployed directly or in a container. If this sounds complex, trust me, it isn&rsquo;t.</p>
-
 <p>They provide an automated installer, that helps you getting your Raspberry Pi with PiHole up and running. Actually, you don&rsquo;t need to use a Raspi, you can use whatever linux machine you want!</p>
-
-<p>After the installation, you can get informative stats about your consumption and blockages in the PiHole Admin Interface.
-<center>
-<img src="/images/pihole-screenshot.PNG" alt="PiHole Admin Interface Screenshot" />
-</center></p>
-
+<p>After the installation, you can get informative stats about your consumption and blockages in the PiHole Admin Interface.</p>
+<!-- raw HTML omitted -->
 <h1 id="why-a-pihole-i-have-adblock-in-my-browser-extension">Why a PiHole? I have AdBlock in my Browser extension!</h1>
-
 <ol>
 <li>PiHole works on DNS level - it blocks all the Ads!</li>
 <li>It works in all Applications, not only your Browser, but also your Phone, Aps, etc.</li>
@@ -236,48 +213,40 @@ It can be hosted locally, or remotely, and it can be deployed directly or in a c
 <li>Beautiful graphs and statistics!</li>
 <li>It&rsquo;s good for the environment - doesn&rsquo;t create unnecesary trafic and load!</li>
 </ol>
-
-<p>In our home network of roughly 20 devices, it blocks around 25% to 30% of the total traffic - this means data is not served, servers are not called, execution time of those is <sup>1</sup>&frasl;<sub>3</sub> lower, effectively it should therefore also be good for the environment as less services are requested consuming computing power and thus in the end electricity (ATTENTION: This is a bold statement of mine and one could argue against it - as always&hellip;.)</p>
-
+<p>In our home network of roughly 20 devices, it blocks around 25% to 30% of the total traffic - this means data is not served, servers are not called, execution time of those is 1/3 lower, effectively it should therefore also be good for the environment as less services are requested consuming computing power and thus in the end electricity (ATTENTION: This is a bold statement of mine and one could argue against it - as always&hellip;.)</p>
 <h1 id="what-do-we-need">What do we need?</h1>
-
 <ol>
-<li><p><a href="https://amzn.to/2ZUPEEt">A Raspberry Pi</a>
+<li>
+<p><a href="https://amzn.to/2ZUPEEt">A Raspberry Pi</a>
 Any Raspberry Pi will do, but if you push a lot of bits, bites, and packages through your network like I do, get yourself at least a <a href="https://amzn.to/2ZUPEEt">Raspi 3</a> or <a href="https://amzn.to/2ZUg4q8">Raspi 4</a>.
-Depending on your choice, this will set you back 30 - 70 €.</p></li>
-
-<li><p><a href="https://amzn.to/2ZIOq4f">A SD Card</a>
-16 GB is more than plenty.</p></li>
-
-<li><p><a href="https://amzn.to/2ZX5HpH">A USB Power Adapter</a> and a <a href="https://amzn.to/34uwcly">case</a>
+Depending on your choice, this will set you back 30 - 70 €.</p>
+</li>
+<li>
+<p><a href="https://amzn.to/2ZIOq4f">A SD Card</a>
+16 GB is more than plenty.</p>
+</li>
+<li>
+<p><a href="https://amzn.to/2ZX5HpH">A USB Power Adapter</a> and a <a href="https://amzn.to/34uwcly">case</a>
 Take the classical Raspberry Pi one, not only does it look good, it&rsquo;s also very practical as you can open the top and the sides. In terms of the power Adapter, depending on your Pi Version, any Phone Charger will do.
 Or just go for the full package:  <a href="https://amzn.to/2zYVYQU">click me</a>
-It&rsquo;s 70 € on Amazon, but I&rsquo;m sure it can be found cheaper.</p></li>
-
-<li><p><a href="https://www.raspberrypi.org/downloads/raspbian/">A linux image</a>
-I recomment going for Raspbian Lite, as you don&rsquo;t need all the mumbo jambo and fancy UIs. The command line is all you need!</p></li>
-
-<li><p><a href="https://github.com/pi-hole/pi-hole">Pihole itself</a>
-This links to their github, but don&rsquo;t worry, there&rsquo;s an easy way of downloading it without having to <code>git clone</code> into a repo</p></li>
+It&rsquo;s 70 € on Amazon, but I&rsquo;m sure it can be found cheaper.</p>
+</li>
+<li>
+<p><a href="https://www.raspberrypi.org/downloads/raspbian/">A linux image</a>
+I recomment going for Raspbian Lite, as you don&rsquo;t need all the mumbo jambo and fancy UIs. The command line is all you need!</p>
+</li>
+<li>
+<p><a href="https://github.com/pi-hole/pi-hole">Pihole itself</a>
+This links to their github, but don&rsquo;t worry, there&rsquo;s an easy way of downloading it without having to <code>git clone</code> into a repo</p>
+</li>
 </ol>
-
 <h1 id="preparing-the-raspberry-pi">Preparing the Raspberry Pi</h1>
-
-<p>First things first, we need to setup the Raspberry Pi.
-<center>
-<img src="/images/Raspberry_Pi_4_Model_B_-_Side.jpg" alt="Raspberry Pi" />
-</center>
-After dedusting or unpacking your Raspberry Pi, the SD Card, and peripherals, you will need to put a OS on the small thing. This step is probably the most inconvenient of all, as you will need to use a computer of any sort, and afterwards need your computers peripherals like monitor, keyboard, and any type of internet connectivity like ethernet kabel to your router, or wifi, to setup the Raspberry Pi initially.</p>
-
+<p>First things first, we need to setup the Raspberry Pi.</p>
+<!-- raw HTML omitted -->
 <p>Now there are several ways of doing so, I recommend the easiest one using a GUI software that a friend of mine used to work on called <a href="https://www.balena.io/etcher/">Etcher</a>.
 It&rsquo;s an easy way of installing any downloaded Linux Image on a SD Card and making it bootable, no need to use any DD commands, or other tools like <a href="https://rufus.ie/">Rufus</a> - which is also a good tool, but only for windows.</p>
-
-<h2 id="getting-the-os-software">Getting the OS &amp; Software</h2>
-
-<p><center>
-<img src="/images/Raspian_SD-150x150.webp" alt="Getting the Linux Image" />+<img src="/images/etcher.svg" alt="Getting Etcher" />
-</center></p>
-
+<h2 id="getting-the-os--software">Getting the OS &amp; Software</h2>
+<!-- raw HTML omitted -->
 <ol>
 <li>Download the Raspbian Image (you might use this <a href="https://downloads.raspberrypi.org/raspbian_lite_latest">link</a>) &ndash; Verify the image with the provided checksum if you whish (not necessary, but helps assuring that there is no malicious version of the OS downloaded)</li>
 <li>Download Etcher for your OS <a href="https://www.balena.io/etcher/">here</a></li>
@@ -287,11 +256,8 @@ It&rsquo;s an easy way of installing any downloaded Linux Image on a SD Card and
 <li>Select the Image you want to burn on it (The unzipped ISO file of Step 1)</li>
 <li>Start and wait for the success message :)</li>
 </ol>
-
 <h2 id="plug-in-your-raspi-and-do-the-initial-setup">Plug in your Raspi and do the initial setup</h2>
-
 <p>You will need:</p>
-
 <ol>
 <li>any Monitor + HDMI Kabel</li>
 <li>any USB Keyboard (I use my logitech wireless keyboard with its USB Adapter)</li>
@@ -300,101 +266,52 @@ It&rsquo;s an easy way of installing any downloaded Linux Image on a SD Card and
 <li>the <a href="https://amzn.to/2ZX5HpH">Power Adapter</a></li>
 <li>Network (best case, via ethernet cable)</li>
 </ol>
-
 <p>I recommend connecting everything before you connect to power.
 The <a href="https://amzn.to/2ZUPEEt">Raspberry Pi</a> turns on immediately.</p>
-
 <p>It will boot into Raspbian Lite.</p>
-
-<p><center>
-<img src="/images/raspberry1.PNG" alt="Raspbian Lite booting" />
-</center>
-<em>If you want to see how I did this screenshots without a raspberry pi, check out: <a href="https://23ro.de/posts/qemu-windows">How to emulate ARM processors and run Raspbian on any machine</a>.</em></p>
-
+<!-- raw HTML omitted -->
 <p>You will be asked to login, on Raspbian Lite the default credentials are:</p>
-
-<pre><code class="language-shell">login: pi
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">login: pi
 password: raspberry
-</code></pre>
-
-<p>You will need to change those, it&rsquo;s very dangerous to let the device run on those credentials.
+</code></pre></div><p>You will need to change those, it&rsquo;s very dangerous to let the device run on those credentials.
 By using the command</p>
-
-<pre><code class="language-shell">$ passwd
-</code></pre>
-
-<p>you can change it from raspberry to your desired pwd.</p>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">$ passwd
+</code></pre></div><p>you can change it from raspberry to your desired pwd.</p>
 <p>Before we can proceed, we need to make sure the Raspberry Pi has access to the internet.
 There are several options to do so, the easiest being pinging a widely available resource like the OpenDNS Servers:</p>
-
-<pre><code class="language-shell">$ ping 208.67.222.222
-</code></pre>
-
-<p>this should return the time in ms that the package needed to travel to the destination (OpenDNS Server) and back to your machine.
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">$ ping 208.67.222.222
+</code></pre></div><p>this should return the time in ms that the package needed to travel to the destination (OpenDNS Server) and back to your machine.
 If you see something like <code>host unreachable</code> or <code>Timeout</code> make sure that your Raspi is thoroughly hooked up to your router!</p>
-
 <p>Now, let&rsquo;s assure that we have the latest packages installed on our Raspberry Pi by running those commands sequentially:</p>
-
-<pre><code class="language-shell">$ sudo apt-get update
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">$ sudo apt-get update
 $ sudo apt-get dist-upgrade
-</code></pre>
-
-<p>As we always want to be able to access the device from another PC (we also want to continue the installation process via a secure shell) we have to activate the SSH option in the OS.</p>
-
+</code></pre></div><p>As we always want to be able to access the device from another PC (we also want to continue the installation process via a secure shell) we have to activate the SSH option in the OS.</p>
 <h4 id="option-one">Option one:</h4>
-
 <p>Enter</p>
-
 <pre><code>$ sudo raspi-config
-</code></pre>
-
-<p>Select <code>Interfacing options</code></p>
-
+</code></pre><p>Select <code>Interfacing options</code></p>
 <p>Navigate to <code>ssh</code></p>
-
 <p>press Enter and select Enable ssh server</p>
-
 <h4 id="option-two">Option two:</h4>
-
 <p>This is the pro tip - if you don&rsquo;t have keyboard, HDMI Kabel and Monitor, etc. at hand, you can also touch/echo a empty file on the /boot folder of the sd card named <code>ssh</code>.
 It allows for a completely headless setup.</p>
-
 <h2 id="install-pi-hole">Install Pi-Hole</h2>
-
 <p>Finally the step we have been waiting for, installing Pi-Hole is as easy as running this command:</p>
-
 <pre><code>$ curl -sSL https://install.pi-hole.net | bash
-</code></pre>
-
-<p>Just follow the installier which should look like this:
-<center>
-<img src="/images/pi-hole-installer1.png" alt="PiHole Installer" />
-</center></p>
-
+</code></pre><p>Just follow the installier which should look like this:</p>
+<!-- raw HTML omitted -->
 <p>At one point you will be asked to select your upstream DNS provider. I tend to use <a href="https://use.opendns.com/">OpenDNS</a>, or <a href="https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/">Cloudflare DNS</a>, and for several reasons I began avoiding googles DNS (8.8.8.8). But this really is your choice, I recommend doing a bit of reading about the options and why you would choose one over another.
 My conclusion draws from experiences I have made over the last years with the given provider. And this might be biased, but as a security and privacy advocate, big data driven cooperations aren&rsquo;t necessarily whom I trust my data the most with.</p>
-
-<p><center>
-<img src="/images/pi-hole-dns-provider-selection.png" alt="PiHole DNS Selection" />
-</center></p>
-
+<!-- raw HTML omitted -->
 <p>Now you can basically <code>enter through</code> the installation. It will install lighttpd (a open source webserver), the admin interface etc.
 After the installation is done, write down your password to your interface, this is important!</p>
-
 <p>And if you have done everything correctly, you can deploy the raspberry pi securely next to your router.</p>
-
-<h2 id="aftercare-making-the-dns-server-available-and-known-to-all-devices">Aftercare - making the DNS server available and known to all devices!</h2>
-
+<h2 id="aftercare---making-the-dns-server-available-and-known-to-all-devices">Aftercare - making the DNS server available and known to all devices!</h2>
 <p>Now that the software is setup, we need to make it known to all the devices in the network.
 This is fairly simple.</p>
-
 <p>On the last screen of the installation process, we have been told about our IP Adress in the local network. This will become our DNS Server IP that we will need to make locally known.</p>
-
 <p>Now depending on your ISP (Internet service provider) and your router, you will eiter be able to set it via the router or not (Thank you, Vodafone/Kabel Deutschland!). Luckily I&rsquo;m only using the Vodafone device as a modem in bridge mode. Just navigate to google, search for your routers DNS Settings (they are usually close to the networking or DHCP settings), and set only the IP Adress of your PI as DNS.</p>
-
 <p>This setting will get propogated to all the devices in the network using DHCP to get a IP.</p>
-
 <p>That&rsquo;s, you and your network are setup for the use of PiHole!</p>
 
 </main>
@@ -404,7 +321,8 @@ This is fairly simple.</p>
     This page was generated using a fork of
     <a target="_blank" rel="noopener" href="https://comfusion.github.io/after-dark/">After Dark</a>
     for
-    <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>.
+    <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>
+    and is hosted on firebase.
   </p>
 
 

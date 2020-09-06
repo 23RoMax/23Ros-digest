@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-en">
   <head>
-    <meta name="generator" content="Hugo 0.58.1" />
+    <meta name="generator" content="Hugo 0.74.3" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>23Ro&#39;s Digest</title>
@@ -20,7 +20,6 @@
 <meta property="og:description" content="Hello World - nice to meet you!" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://www.23ro.de/" />
-
 <meta property="og:updated_time" content="2019-12-28T00:44:51+02:00" />
 
     <meta name="twitter:card" content="summary"/>
@@ -42,17 +41,6 @@
 
     
     
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-117425007-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
     
       <link href="http://www.23ro.de/index.xml" rel="alternate" type="application/rss+xml" title="23Ro&#39;s Digest" />
     
@@ -213,61 +201,61 @@ article header img {
   <header>
     <h1>Welcome to the humble mindspace of 23Ro</h1>
   </header>
-  <p>\ 2019-12-28 00:44:51 &#43;0200 &#43;0200 3 min</p>
+  <p>/ 2019-12-28 00:44:51 &#43;0200 &#43;0200 3 min</p>
   <div class="homepage-content">
-    
-    
+    <div id="particularematter">
+  <script>
+    document.addEventListener("DOMContentLoaded", function getData () {
 
-<h1 id="a-primer">A primer</h1>
+      function appendData(data) {
+        console.log('Appending Data')
+        var mainContainer = document.getElementById("displayData");
+        var div = document.createElement("div");
+        div.innerHTML = 'PM 10: ' + data.data.sdsp1;
+        mainContainer.appendChild(div);
+        var div = document.createElement("div");
+        div.innerHTML = 'PM 2.5: ' + data.data.sdsp2;
+        mainContainer.appendChild(div);
+        var div = document.createElement("div");
+        div.innerHTML = 'Sample# taken: ' + data.data.sampleNumber + ' on ' + data.data.createdAt;
+        mainContainer.appendChild(div);s
+      }
+      fetch('https://us-central1-blog-1523231623641.cloudfunctions.net/api/data/latest').then(function (response) {
+      	
+      	return response.json();
+      }).then(function (data) {
+      	
+      	console.log(data);
+        appendData(data);
+      }).catch(function (err) {
+      	
+      	console.warn('Something went wrong.', err);
+      });
+    })
+  </script>
+  <h2>Current atmospheric particulate matter in Germany - Berlin Mitte</h2>
+  <div id="displayData"></div>
+</div>
 
+    
+    <h1 id="a-primer">A primer</h1>
 <p>This is dedicated to all the time spent in front of my computers. Exploring new projects, oportunities and studying. In all it&rsquo;s glory, I present you, the humble inventions, findings, and collections of myself, friends, family and fools. This website is built with <a href="https://www.gohugo.io">hugo</a>, where content is mainly written in markdown and insanely fast converted to a static website - it&rsquo;s fun.</p>
-
 <p>I tend to write about all sorts of technology, sometimes about the business world around development, software engineering, my hobbies and little projects that I pursue to keep life interesting.</p>
-
-<hr />
-
+<hr>
 <p>A Quote:</p>
-
-<pre><code class="language-sql">“Well, if droids could think, there’d be none of us here, would there?” — Obi-Wan Kenobi
-</code></pre>
-
-<hr />
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#960050;background-color:#1e0010">“</span>Well, <span style="color:#66d9ef">if</span> droids could think, there<span style="color:#960050;background-color:#1e0010">’</span>d be <span style="color:#66d9ef">none</span> <span style="color:#66d9ef">of</span> us here, would there<span style="color:#f92672">?</span><span style="color:#960050;background-color:#1e0010">”</span> <span style="color:#960050;background-color:#1e0010">—</span> Obi<span style="color:#f92672">-</span>Wan Kenobi
+</code></pre></div><hr>
 <h2 id="who-am-i">Who am I</h2>
-
 <p>My name is Maximilian and I also go by the cryptic name 23Ro. I&rsquo;m a product owner, professional bug catcher, and developer myself. My skillset is based on a technological foundation, with some outreaches to academical economics, but I went quickly back to the more technical side of things working my way steadily up the stream of challenges we encounter on a daily basis combining the world of development, product management, and non-technical business tasks. If you want to checkout some of the software projects I am, or I was involved in, check out <a href="https://www.new-thread.de">this</a>, <a href="https://freebusy.app/">this</a>, <a href="https://bav-werkzeug.de/">this</a> and <a href="https://www.tillhub.de">that</a>.</p>
-
 <p>To find out more, you can also find me on these various platform:</p>
-
-<hr />
-
-<p><p style="text-align: center;">
-<a href="https://www.linkedin.com/in/maximilian-nebl-87219846/"><img src="../icons/linkedin16.png" alt="alt text" title="LinkedIn" />
-</a> &mdash; <a href="https://github.com/23RoMax/"><img src="../icons/github16.png" alt="alt text" title="Github" /></a> &mdash; <a href="https://twitter.com/23_r0"><img src="../icons/twitter16.png" alt="alt text" title="Twitter" />
-</a> &mdash; <a href="https://www.instagram.com/23_r0/"><img src="../icons/instagram16.png" alt="alt text" title="Instagram" />
-</a>
-</p></p>
-
-<hr />
-
-<p>On a sidenote - I might not be active on instagram anymore from end of year 2019 as it consumed too much of my time/I wasted too much time on scrolling through their feed -  but I kind of made my own instagram: find my photography journey <a href="https://23ro.photography/">here</a>.</p>
-
-<hr />
-
-<p>For professional inquiries visit my companies website <a href="https://new-thread.de">New Thread</a>.</p>
-
+<hr>
+<!-- raw HTML omitted -->
 <h3 id="what-i-do-here">What I do here</h3>
-
 <p>Sharing information about beforementioned topics is what you will mostly find here. There is no intention of monetization at all.</p>
-
 <p>I dedicated this project to all the time spent in front of computers taking part in forming the modern world. We all contribute to a better understanding, if we share information that has been either shared with, or compiled by us. I deeply believe that everyone who has information worth sharing, should do so without contempt. However, if there is wrong information shared, or information of low quality, it can also have negative effects. If you find things interesting here, and/or learn something, I&rsquo;m glad I could help.</p>
-
 <p>If you feel like I missed a point, or I&rsquo;m sharing wrong information, please feel free to reach out to me and contribute.</p>
-
 <h2 id="where-am-i">Where am I</h2>
-
 <p>Based and located in Berlin, Germany. Initially spawned in the most northern southern part of Germany (upper franconia), Coburg, I set out to do my things and eventually had the chance to live in several places on this planet during the last couple of years. Now I&rsquo;m settled for good (at least for now) in Berlin.</p>
-
 <div class="shortcode shortcode--google-maps">
 	<iframe
 		src='https://www.google.com/maps/embed/v1/place?key=AIzaSyBZEomtIf7jODJZpboI_HOQJHjTBmQKl_A&q=Berlin%2c%20Germany'
@@ -278,9 +266,7 @@ article header img {
 	</iframe>
 </div>
 
-
 <h2 id="roam-free">Roam free</h2>
-
 <p>For now, I&rsquo;m happy to let you roam free</p>
 
   </div>
@@ -303,7 +289,8 @@ article header img {
     This page was generated using a fork of
     <a target="_blank" rel="noopener" href="https://comfusion.github.io/after-dark/">After Dark</a>
     for
-    <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>.
+    <a target="_blank" rel="noopener" href="https://gohugo.io/">Hugo</a>
+    and is hosted on firebase.
   </p>
 
 
