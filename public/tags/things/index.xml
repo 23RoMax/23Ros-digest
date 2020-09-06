@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Things on 23Ro&#39;s Digest</title>
+    <title>things on 23Ro&#39;s Digest</title>
     <link>http://www.23ro.de/tags/things/</link>
-    <description>Recent content in Things on 23Ro&#39;s Digest</description>
+    <description>Recent content in things on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Sun, 08 Sep 2019 18:04:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 16:11:21 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/tags/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1000 Days - A quick retrospective on switching to straight edge</title>
+      <link>http://www.23ro.de/posts/1000days/</link>
+      <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/posts/1000days/</guid>
+      <description>1000 Days My blog has been pretty dead lately. Although I have the goal of writing one blog entry a month, I keep on pushing this task due to various reasons. And even with COVID, my life got busier than ever before.
+During these intense, but fun, days I got reminded by an app on my phone about one big thing, this being:
+Exactly one thousand days ago I decided to not consume any alcohol, nicotine, or (for the sake of completeness) any other drug anymore.</description>
+    </item>
+    
+    <item>
+      <title>Happy New Decade ~ 2020</title>
+      <link>http://www.23ro.de/posts/happy-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.23ro.de/posts/happy-2020/</guid>
+      <description>Happy new year and a good start into the 21st century twenties A healthy and awesome start into the new year to everyone!
+As the new decade begins, many people tend to set themselves additional new years resolutions. I thoroughly don&amp;rsquo;t believe in this particular tradition.
+But I believe in kicking bad habits - independently from any specific day of a year. So I did. And encourage everyone to do the same.</description>
+    </item>
     
     <item>
       <title>A life without advertisements - Pihole DNS Adblocker</title>

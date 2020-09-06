@@ -6,17 +6,53 @@
     <description>Recent content in Tags on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Sat, 28 Dec 2019 00:44:51 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 16:11:21 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>23ro</title>
-      <link>http://www.23ro.de/tags/23ro/</link>
-      <pubDate>Sat, 28 Dec 2019 00:44:51 +0200</pubDate>
+      <title>general</title>
+      <link>http://www.23ro.de/tags/general/</link>
+      <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
       
-      <guid>http://www.23ro.de/tags/23ro/</guid>
+      <guid>http://www.23ro.de/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>http://www.23ro.de/tags/health/</link>
+      <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>http://www.23ro.de/tags/life/</link>
+      <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflections</title>
+      <link>http://www.23ro.de/tags/reflections/</link>
+      <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/reflections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>things</title>
+      <link>http://www.23ro.de/tags/things/</link>
+      <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/things/</guid>
       <description></description>
     </item>
     
@@ -30,196 +66,7 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://www.23ro.de/tags/about/</link>
-      <pubDate>Sat, 28 Dec 2019 00:44:51 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adblocker</title>
-      <link>http://www.23ro.de/tags/adblocker/</link>
-      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/adblocker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Berlin</title>
-      <link>http://www.23ro.de/tags/berlin/</link>
-      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/berlin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business Critical</title>
-      <link>http://www.23ro.de/tags/business-critical/</link>
-      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/business-critical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Company</title>
-      <link>http://www.23ro.de/tags/company/</link>
-      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/company/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer</title>
-      <link>http://www.23ro.de/tags/computer/</link>
-      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/computer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Security</title>
-      <link>http://www.23ro.de/tags/data-security/</link>
-      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/data-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>http://www.23ro.de/tags/development/</link>
-      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dns</title>
-      <link>http://www.23ro.de/tags/dns/</link>
-      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/dns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>General</title>
-      <link>http://www.23ro.de/tags/general/</link>
-      <pubDate>Thu, 26 Dec 2019 15:59:20 +0100</pubDate>
-      
-      <guid>http://www.23ro.de/tags/general/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>http://www.23ro.de/tags/go/</link>
-      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gohugo</title>
-      <link>http://www.23ro.de/tags/gohugo/</link>
-      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/gohugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>http://www.23ro.de/tags/golang/</link>
-      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://www.23ro.de/tags/hugo/</link>
-      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impress</title>
-      <link>http://www.23ro.de/tags/impress/</link>
-      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/impress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impressum</title>
-      <link>http://www.23ro.de/tags/impressum/</link>
-      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/impressum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kreuzberg</title>
-      <link>http://www.23ro.de/tags/kreuzberg/</link>
-      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/kreuzberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Legal Disclaimer</title>
-      <link>http://www.23ro.de/tags/legal-disclaimer/</link>
-      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/legal-disclaimer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Legalities</title>
-      <link>http://www.23ro.de/tags/legalities/</link>
-      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/legalities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>http://www.23ro.de/tags/life/</link>
-      <pubDate>Sat, 28 Dec 2019 00:44:51 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lifehacks</title>
-      <link>http://www.23ro.de/tags/lifehacks/</link>
-      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/lifehacks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mamiya</title>
+      <title>mamiya</title>
       <link>http://www.23ro.de/tags/mamiya/</link>
       <pubDate>Thu, 26 Dec 2019 15:59:20 +0100</pubDate>
       
@@ -228,7 +75,7 @@
     </item>
     
     <item>
-      <title>Medium Format Photography</title>
+      <title>medium format photography</title>
       <link>http://www.23ro.de/tags/medium-format-photography/</link>
       <pubDate>Thu, 26 Dec 2019 15:59:20 +0100</pubDate>
       
@@ -237,16 +84,7 @@
     </item>
     
     <item>
-      <title>Passwords</title>
-      <link>http://www.23ro.de/tags/passwords/</link>
-      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/passwords/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
+      <title>photography</title>
       <link>http://www.23ro.de/tags/photography/</link>
       <pubDate>Thu, 26 Dec 2019 15:59:20 +0100</pubDate>
       
@@ -255,61 +93,7 @@
     </item>
     
     <item>
-      <title>Pihole</title>
-      <link>http://www.23ro.de/tags/pihole/</link>
-      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/pihole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Product</title>
-      <link>http://www.23ro.de/tags/product/</link>
-      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/product/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>http://www.23ro.de/tags/programming/</link>
-      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.23ro.de/tags/projects/</link>
-      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rant</title>
-      <link>http://www.23ro.de/tags/rant/</link>
-      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/rant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi</title>
-      <link>http://www.23ro.de/tags/raspberry-pi/</link>
-      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/raspberry-pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rb67</title>
+      <title>rb67</title>
       <link>http://www.23ro.de/tags/rb67/</link>
       <pubDate>Thu, 26 Dec 2019 15:59:20 +0100</pubDate>
       
@@ -318,7 +102,7 @@
     </item>
     
     <item>
-      <title>Single Lens Reflex</title>
+      <title>single lens reflex</title>
       <link>http://www.23ro.de/tags/single-lens-reflex/</link>
       <pubDate>Thu, 26 Dec 2019 15:59:20 +0100</pubDate>
       
@@ -327,7 +111,7 @@
     </item>
     
     <item>
-      <title>Slr</title>
+      <title>SLR</title>
       <link>http://www.23ro.de/tags/slr/</link>
       <pubDate>Thu, 26 Dec 2019 15:59:20 +0100</pubDate>
       
@@ -336,43 +120,61 @@
     </item>
     
     <item>
-      <title>Software</title>
-      <link>http://www.23ro.de/tags/software/</link>
-      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
+      <title>adblocker</title>
+      <link>http://www.23ro.de/tags/adblocker/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
       
-      <guid>http://www.23ro.de/tags/software/</guid>
+      <guid>http://www.23ro.de/tags/adblocker/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sql</title>
-      <link>http://www.23ro.de/tags/sql/</link>
-      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      <title>DNS</title>
+      <link>http://www.23ro.de/tags/dns/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
       
-      <guid>http://www.23ro.de/tags/sql/</guid>
+      <guid>http://www.23ro.de/tags/dns/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sql Magic</title>
-      <link>http://www.23ro.de/tags/sql-magic/</link>
-      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      <title>lifehacks</title>
+      <link>http://www.23ro.de/tags/lifehacks/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
       
-      <guid>http://www.23ro.de/tags/sql-magic/</guid>
+      <guid>http://www.23ro.de/tags/lifehacks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sql Snippets</title>
-      <link>http://www.23ro.de/tags/sql-snippets/</link>
-      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      <title>pihole</title>
+      <link>http://www.23ro.de/tags/pihole/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
       
-      <guid>http://www.23ro.de/tags/sql-snippets/</guid>
+      <guid>http://www.23ro.de/tags/pihole/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Start B</title>
+      <title>projects</title>
+      <link>http://www.23ro.de/tags/projects/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry pi</title>
+      <link>http://www.23ro.de/tags/raspberry-pi/</link>
+      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>start-b</title>
       <link>http://www.23ro.de/tags/start-b/</link>
       <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
@@ -381,25 +183,7 @@
     </item>
     
     <item>
-      <title>Sunday Funday</title>
-      <link>http://www.23ro.de/tags/sunday-funday/</link>
-      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/sunday-funday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Things</title>
-      <link>http://www.23ro.de/tags/things/</link>
-      <pubDate>Sun, 08 Sep 2019 18:04:49 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/tags/things/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tlr</title>
+      <title>TLR</title>
       <link>http://www.23ro.de/tags/tlr/</link>
       <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
@@ -408,7 +192,7 @@
     </item>
     
     <item>
-      <title>Twin Lens Reflex</title>
+      <title>twin lens reflex</title>
       <link>http://www.23ro.de/tags/twin-lens-reflex/</link>
       <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
@@ -417,11 +201,191 @@
     </item>
     
     <item>
-      <title>Wzfo</title>
+      <title>wzfo</title>
       <link>http://www.23ro.de/tags/wzfo/</link>
       <pubDate>Sun, 10 Jun 2018 22:23:30 +0200</pubDate>
       
       <guid>http://www.23ro.de/tags/wzfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>berlin</title>
+      <link>http://www.23ro.de/tags/berlin/</link>
+      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kreuzberg</title>
+      <link>http://www.23ro.de/tags/kreuzberg/</link>
+      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/kreuzberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rant</title>
+      <link>http://www.23ro.de/tags/rant/</link>
+      <pubDate>Wed, 06 Jun 2018 22:40:04 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/rant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>http://www.23ro.de/tags/go/</link>
+      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://www.23ro.de/tags/golang/</link>
+      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sunday-funday</title>
+      <link>http://www.23ro.de/tags/sunday-funday/</link>
+      <pubDate>Sun, 29 Apr 2018 18:22:19 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/sunday-funday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business critical</title>
+      <link>http://www.23ro.de/tags/business-critical/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/business-critical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>company</title>
+      <link>http://www.23ro.de/tags/company/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data security</title>
+      <link>http://www.23ro.de/tags/data-security/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/data-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>passwords</title>
+      <link>http://www.23ro.de/tags/passwords/</link>
+      <pubDate>Wed, 18 Apr 2018 22:49:48 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/passwords/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>http://www.23ro.de/tags/programming/</link>
+      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>http://www.23ro.de/tags/sql/</link>
+      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql magic</title>
+      <link>http://www.23ro.de/tags/sql-magic/</link>
+      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/sql-magic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL snippets</title>
+      <link>http://www.23ro.de/tags/sql-snippets/</link>
+      <pubDate>Thu, 12 Apr 2018 01:16:57 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/sql-snippets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer</title>
+      <link>http://www.23ro.de/tags/computer/</link>
+      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>http://www.23ro.de/tags/development/</link>
+      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gohugo</title>
+      <link>http://www.23ro.de/tags/gohugo/</link>
+      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/gohugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://www.23ro.de/tags/hugo/</link>
+      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product</title>
+      <link>http://www.23ro.de/tags/product/</link>
+      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://www.23ro.de/tags/software/</link>
+      <pubDate>Mon, 09 Apr 2018 00:43:36 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/tags/software/</guid>
       <description></description>
     </item>
     

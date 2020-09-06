@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life on 23Ro&#39;s Digest</title>
+    <title>life on 23Ro&#39;s Digest</title>
     <link>http://www.23ro.de/tags/life/</link>
-    <description>Recent content in Life on 23Ro&#39;s Digest</description>
+    <description>Recent content in life on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Sat, 28 Dec 2019 00:44:51 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 16:11:21 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome to the humble mindspace of 23Ro</title>
-      <link>http://www.23ro.de/</link>
-      <pubDate>Sat, 28 Dec 2019 00:44:51 +0200</pubDate>
+      <title>1000 Days - A quick retrospective on switching to straight edge</title>
+      <link>http://www.23ro.de/posts/1000days/</link>
+      <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
       
-      <guid>http://www.23ro.de/</guid>
-      <description>A primer This is dedicated to all the time spent in front of my computers. Exploring new projects, oportunities and studying. In all it&amp;rsquo;s glory, I present you, the humble inventions, findings, and collections of myself, friends, family and fools. This website is built with hugo, where content is mainly written in markdown and insanely fast converted to a static website - it&amp;rsquo;s fun.
-I tend to write about all sorts of technology, sometimes about the business world around development, software engineering, my hobbies and little projects that I pursue to keep life interesting.</description>
+      <guid>http://www.23ro.de/posts/1000days/</guid>
+      <description>1000 Days My blog has been pretty dead lately. Although I have the goal of writing one blog entry a month, I keep on pushing this task due to various reasons. And even with COVID, my life got busier than ever before.
+During these intense, but fun, days I got reminded by an app on my phone about one big thing, this being:
+Exactly one thousand days ago I decided to not consume any alcohol, nicotine, or (for the sake of completeness) any other drug anymore.</description>
     </item>
     
     <item>
@@ -56,27 +57,6 @@ So, if you have a spare one of these: , or even if you don&amp;rsquo;t, check ou
       
       <guid>http://www.23ro.de/posts/berlin-kreuzberg-trash-part-one/</guid>
       <description>My daily commute to work includes walking a beautiful strip of berlin roads. Namely: Prinzenstraße, and its side-, and crossroads. I pass a lot of green until I reach our office (from Moritzplatz to Gitschinerstraße), conveniently located next to a brothel and close to Prinzenstraße U-Bahn Station, in one of the rear courtyard of a Gitschiner Straße building (luckily freshly renovated). However, this beautiful path is frequently destroyed by what I encounter there&amp;hellip;.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.23ro.de/about/</link>
-      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/about/</guid>
-      <description>My Name is Maximilian, most of my time is spent on my favourite topic - technology. I work as a product owner, developer, manager, mostly on the Fintech SaaS industry.
-Besides the passion for technology, I like taking photos of everyday things - check out my photography page:
-23ro.photography and find me on 
-and spend time on my two wheeled toys: a Cagiva Raptor 650 IE (2006) &amp;amp; a Cagive Mito Evo (2001).</description>
-    </item>
-    
-    <item>
-      <title>legal disclaimer</title>
-      <link>http://www.23ro.de/legal/</link>
-      <pubDate>Tue, 10 Apr 2018 00:07:25 +0200</pubDate>
-      
-      <guid>http://www.23ro.de/legal/</guid>
-      <description>This blog is built, maintained, hosted, and completely located in Germany. In order to comply with the §5 TMG (Telemediengesetz) I have hereby added a legally correct disclaimer. As the content on this page might be related to my business activites, I am bound to add this section even though you will only see my private notes here. There will be no advertisement on this page, or monetization efforts. So this is solely a safety measure.</description>
     </item>
     
   </channel>

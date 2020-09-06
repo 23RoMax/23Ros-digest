@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life on 23Ro&#39;s Digest</title>
+    <title>life on 23Ro&#39;s Digest</title>
     <link>http://www.23ro.de/categories/life/</link>
-    <description>Recent content in Life on 23Ro&#39;s Digest</description>
+    <description>Recent content in life on 23Ro&#39;s Digest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Thu, 26 Dec 2019 15:59:20 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 16:11:21 +0200</lastBuildDate>
     
 	<atom:link href="http://www.23ro.de/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1000 Days - A quick retrospective on switching to straight edge</title>
+      <link>http://www.23ro.de/posts/1000days/</link>
+      <pubDate>Sun, 24 May 2020 16:11:21 +0200</pubDate>
+      
+      <guid>http://www.23ro.de/posts/1000days/</guid>
+      <description>1000 Days My blog has been pretty dead lately. Although I have the goal of writing one blog entry a month, I keep on pushing this task due to various reasons. And even with COVID, my life got busier than ever before.
+During these intense, but fun, days I got reminded by an app on my phone about one big thing, this being:
+Exactly one thousand days ago I decided to not consume any alcohol, nicotine, or (for the sake of completeness) any other drug anymore.</description>
+    </item>
     
     <item>
       <title>Mamiya Rb 67 Professional S - a beast of a camera</title>
