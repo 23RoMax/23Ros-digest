@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the humble mindspace of 23Ro"
-date: 2019-12-28T00:44:51+02:00
+date: 2020-09-06T22:00:00+02:00
 draft: false
 tags: ["about", "23Ro", "life"]
 description: "Hello World - nice to meet you!"
@@ -12,15 +12,6 @@ keywords: ["about", "23Ro", "life", "programmer", "technical product owner", "it
 This is dedicated to all the time spent in front of my computers. Exploring new projects, oportunities and studying. In all it's glory, I present you, the humble inventions, findings, and collections of myself, friends, family and fools. This website is built with [hugo](https://www.gohugo.io), where content is mainly written in markdown and insanely fast converted to a static website - it's fun.
 
 I tend to write about all sorts of technology, sometimes about the business world around development, software engineering, my hobbies and little projects that I pursue to keep life interesting.
-
-___
-A Quote:
-
-```sql
-“Well, if droids could think, there’d be none of us here, would there?” — Obi-Wan Kenobi
-```
-
-___
 
 ## Who am I
 
