@@ -1,38 +1,25 @@
-baseURL = "http://www.23ro.de"
-languageCode = "en-en"
-title = "23Ro's Digest"
-theme = "after-dark"
-
-key = "AIzaSyBZEomtIf7jODJZpboI_HOQJHjTBmQKl_A"
-googleAnalytics = "UA-117425007-1"
-
-[[menu.main]]
-  name = "Home"
-  weight = 1
-  identifier = "home"
-  url = "/"
-[[menu.main]]
-  name = "Posts"
-  weight = 2
-  identifier = "post"
-  url = "/posts/"
-[[menu.main]]
-  name = "About 23Ro"
-  weight = 3
-  identifier = "About"
-  url = "/about/"
-[[menu.main]]
-  name = "Photography"
-  weight = 4
-  identifier = "Photography"
-  url = "https://23ro.photography/"
-[[menu.main]]
-  name = "New Thread"
-  weight = 5
-  identifier = "New Thread"
-  url = "https://new-thread.tech/"
-[[menu.main]]
-  name = "Legal Disclaimer"
-  weight = 6
-  identifier = "Legal Disclaimer"
-  url = "/legal/"
+baseURL = 'https://23ro.de/'
+languageCode = 'en-us'
+title = "Max's (23Ro's) Webpage"
+theme = "23ro"
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.main]]
+    name = "Legals"
+    url = "/legal/"
+    weight = 5

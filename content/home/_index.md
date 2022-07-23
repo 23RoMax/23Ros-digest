@@ -50,7 +50,6 @@ If you feel like I missed a point, or I'm sharing wrong information, please feel
 
 Based and located in Berlin, Germany. Initially spawned in the most northern southern part of Germany (upper franconia), Coburg, I set out to do my things and eventually had the chance to live in several places on this planet during the last couple of years. Now I'm settled for good (at least for now) in Berlin.
 
-{{< google-maps key="AIzaSyBZEomtIf7jODJZpboI_HOQJHjTBmQKl_A" height="300" location="Berlin, Germany" >}}
 
 ## Roam free
 

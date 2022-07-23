@@ -27,7 +27,5 @@ As mentioned before, I dedicate this project to all the time spent in front of c
 ### Where am I?
 Based and located in Berlin, Germany. Initially spawned in the most northern southern part of Germany (upper franconia), Coburg, I set out to do my things and eventually had the chance to live in several places on this planet during the last couple of years. Now I'm settled for good (at least for now) in Berlin.
 
-{{< google-maps key="AIzaSyBZEomtIf7jODJZpboI_HOQJHjTBmQKl_A" height="300" location="Berlin, Germany" >}}
-
 ## Roam free
 For now, I'm happy to let you roam free.

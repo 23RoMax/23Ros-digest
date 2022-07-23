@@ -27,9 +27,7 @@ I do a lot of shell scripting, and often I need a connection with an rdbm system
 
 Under [golang.org](https://golang.org) you can find out all about go. A very recommendable read about golang is ["Why you should learn go" on medium by Keval Patel](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 
-I recommend to take yourself 30 minutes and watch this **A Tour of Go** Video by Russ Cox:
-
-{{< privacytube ytEkHepK08c>}}
+I recommend to take yourself 30 minutes and watch this **A Tour of Go** Video by Russ Cox.
 
 You can also find this Video here: [golang.org](https://golang.org/).
 
