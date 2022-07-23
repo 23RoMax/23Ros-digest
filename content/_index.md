@@ -38,7 +38,6 @@ Before that I was a programmer, head of product, professional bug catcher, and s
 
 Other side projects are:
 
-- [Conego - Helium Hotspot Hosting & LoRa Network Provider ](https://conego.io/)
 - [My engineering consulting and development agency](https://www.new-thread.de)
 - [Meeting Activity Display based on google calendars free-busy API](https://freebusy.app)
 - [**Spuffle Shuffler: shuffle public spotify playlist and generate a new one](https://spuffle-shuffler.web.app/#/)

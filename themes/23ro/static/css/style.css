@@ -34,10 +34,6 @@ a {
     display: none;
 }
 
-.hide:hover {
-    display: block;
-}
-
 .tooltip:before {
     content:"\2139";
     background-color: white;
