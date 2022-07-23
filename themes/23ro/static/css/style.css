@@ -1,0 +1,47 @@
+html {
+    background-color: black;
+    font-family: 'monospace';
+    color: #ccc;
+}
+
+body {
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.nav {
+    color: #fff;
+}
+
+.nav-link {
+    color: #00ff80;
+}
+
+.tag {
+    color: #a3f6cd;
+}
+
+a {
+    color: #00ff80;
+}
+
+.summary {
+    color: #bbb;
+}
+
+.hide {
+    display: none;
+}
+
+.tooltip:before {
+    content:"\2139";
+    background-color: white;
+    color: black;
+}
+
+.tooltip:hover + .hide {
+    display: block;
+    color: yellow;
+    border: 1px yellow;
+}

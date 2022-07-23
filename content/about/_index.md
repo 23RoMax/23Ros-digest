@@ -1,29 +1,31 @@
 ---
 title: "About"
-date: 2018-04-10T00:07:25+02:00
+date: 2022-07-23T00:07:25+02:00
 draft: false
-tags: ["about", "23Ro", "life"]
+tags: ["about", "23Ro", "max", "life"]
 description: "Hello"
-keywords: ["about", "23Ro", "life", "programmer", "technical product owner", "it-business", "startup", "fancy"]
+keywords: ["about", "23Ro", "Max"]
 layout: single
 ---
 
-<center>
-![Hello Bear](hello.gif)
-</center>
+![Hello Bear](./hello.gif)
 
-My Name is Maximilian, most of my time is spent on my favourite topic - technology.
-I work as a product owner, developer, manager, mostly on the Fintech SaaS industry.
+Hi there, great to have you here!
 
-Besides the passion for technology, I like taking photos of everyday things - check out my photography page: 
+My Name is Maximilian,
 
-[23ro.photography](https://23ro.photography/) and find me on [![alt text](../icons/instagram16.png "Instagram")
-](https://www.instagram.com/23_r0/)
+Nowadays I work as a CTO and programmer at [AGX](https://agxworld.com), but I managed to wear a few different hats in the industry as well.
 
-and spend time on my two wheeled toys: a Cagiva Raptor 650 IE (2006) & a Cagive Mito Evo (2001).
+Besides the passion for technology, I like
 
-Feel free to check my [Youtube Channel](https://www.youtube.com/c/MaximilianNebl) and subscribe.
+- photography
+- 3d printing
+- motorcycles (Cagiva Raptor 650 IE 2006 & Cagiva Mito Evo 2001)
+- cars
+- guitar playing
 
-<center>
+I have a [Youtube Channel](https://www.youtube.com/c/MaximilianNebl) where I post videos of riding motorcycles in congested capitals or car trips.
+
 ![Cagiva Raptor 650 IE](GOPR0187.JPG)
-</center>
+
+I'm based in Berlin, Germany. Initially spawned in the most northern part of southern Germany (upper franconia), Coburg, I set out to do my things and eventually had the chance to live in several places on this planet during the last couple of years. Now I'm settled for good (at least for now) in Berlin.
