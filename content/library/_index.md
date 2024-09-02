@@ -13,7 +13,7 @@ It does not reflect all books I own, but I attempt to list as many as possible.
 
 # Currently Reading
 
-> I tend to read too many books at a time. By nature I somehow developed the habit of only reading one genre at a time which makes it much easier to "book hop"
+> I tend to read too many books at a time. By nature I somehow developed the habit of only reading one book within one genre at a time which makes it much easier to "book hop"
 
 - Terry Brooks, The Sword of Shannara
 - Daniel Lieberman, Exercised
