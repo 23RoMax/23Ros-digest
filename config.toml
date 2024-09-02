@@ -3,23 +3,27 @@ languageCode = 'en-us'
 title = "Max's (23Ro's) Webpage"
 theme = "23ro"
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 2
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
-  [[menu.main]]
-    name = "Legals"
-    url = "/legal/"
-    weight = 5
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 2
+[[menu.main]]
+name = "Library"
+url = "/library/"
+weight = 3
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 4
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 5
+[[menu.main]]
+name = "Legals"
+url = "/legal/"
+weight = 6
