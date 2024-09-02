@@ -12,6 +12,7 @@ keywords:
     "life",
     "programmer",
     "technical product owner",
+    "CTO",
     "it-business",
     "startup",
     "fancy",
@@ -32,12 +33,16 @@ there’d be none of us here, would there?"
 
 ## Welcome to my website
 
-Topics that interest me:
+Topics that interest me and provide some ramblings about:
 
-- technology around programming
+- programming & software engineering
+- technology
 - management around software development
+- reading
 - camera gear
 - 3d printing
+- cars
+- motorcycles
 
 You can find the content by [tag here](/tags/).
 
@@ -70,7 +75,7 @@ Previously I worked as a programmer, head of product, professional bug catcher, 
 Other noteable projects are:
 
 - [Spuffle\* Shuffler: shuffle public spotify playlist and generate a new one](https://spuffle-shuffler.web.app/#/)
-- [Meeting Activity Display based on google calendars free-busy API](https://freebusy.app)
+- Meeting Activity Display based on google calendars free-busy API (unmaintained)
 - [BAV Rechner (unmaintained)](https://bav-werkzeug.de)
 - Conego - Helium Hotspot Hosting & LoRa Network Provider (dissolved)
 
@@ -84,6 +89,6 @@ You can contact me via email depending on the context under:
 
 ## Socials
 
-I'm against social media, but you can find me on a few selected channels.
+I'm not particular into social media, in fact I avoid it wherever I can. However, you can find me on a few selected channels.
 
 [LinkedIn](https://www.linkedin.com/in/maximilian-nebl-87219846/) | [Github](https://github.com/23RoMax/) | [Mastodon](https://mastodon.social/web/@23R0)
