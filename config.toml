@@ -27,3 +27,5 @@ weight = 5
 name = "Legals"
 url = "/legal/"
 weight = 6
+[markup.goldmark.renderer]
+unsafe = true

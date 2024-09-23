@@ -91,4 +91,4 @@ You can contact me via email depending on the context under:
 
 I'm not particular into social media, in fact I avoid it wherever I can. However, you can find me on a few selected channels.
 
-[LinkedIn](https://www.linkedin.com/in/maximilian-nebl-87219846/) | [Github](https://github.com/23RoMax/) | [Mastodon](https://mastodon.social/web/@23R0)
+[LinkedIn](https://www.linkedin.com/in/maximilian-nebl-87219846/) | [Github](https://github.com/23RoMax/) | <a rel="me" href="https://mastodon.social/@23R0">Mastodon</a>
